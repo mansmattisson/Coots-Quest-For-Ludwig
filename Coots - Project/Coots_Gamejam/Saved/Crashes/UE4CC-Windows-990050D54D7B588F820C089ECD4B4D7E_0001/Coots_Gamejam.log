@@ -1,0 +1,1510 @@
+﻿Log file open, 02/25/23 08:35:05
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Coots_Gamejam
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 9.321725
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ElectronicNodes
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogXGEController: Cleaning working directory: C:/Users/aront/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.25-07.35.09:748][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.25-07.35.09:748][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.25-07.35.09:749][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.25-07.35.09:749][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.25-07.35.09:749][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2023.02.25-07.35.09:749][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:2]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.25-07.35.09:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.25-07.35.09:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.25-07.35.09:750][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.25-07.35.09:818][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.25-07.35.09:818][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.25-07.35.09:819][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.25-07.35.09:832][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.25-07.35.09:845][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.25-07.35.09:856][  0]LogHAL: Display: Platform has ~ 32 GB [34196537344 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.25-07.35.09:856][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.25-07.35.09:866][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.25-07.35.09:866][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.25-07.35.09:867][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.25-07.35.09:890][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.25-07.35.09:890][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.25-07.35.09:890][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.25-07.35.09:890][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.25-07.35.09:890][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Editor.ini]
+[2023.02.25-07.35.09:909][  0]LogInit: Computer: DESKTOP-LP1QBOO
+[2023.02.25-07.35.09:909][  0]LogInit: User: aront
+[2023.02.25-07.35.09:909][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.02.25-07.35.09:909][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.25-07.35.09:909][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.02.25-07.35.09:909][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.25-07.35.09:909][  0]LogMemory: Process Physical Memory: 142.57 MB used, 142.58 MB peak
+[2023.02.25-07.35.09:909][  0]LogMemory: Process Virtual Memory: 130.95 MB used, 130.95 MB peak
+[2023.02.25-07.35.09:909][  0]LogMemory: Physical Memory: 15301.90 MB used,  17310.46 MB free, 32612.36 MB total
+[2023.02.25-07.35.09:909][  0]LogMemory: Virtual Memory: 134188968.00 MB used,  28762.43 MB free, 134217728.00 MB total
+[2023.02.25-07.35.10:014][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.25-07.35.10:689][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.25-07.35.10:710][  0]LogInit: Using OS detected language (sv-SE).
+[2023.02.25-07.35.10:710][  0]LogInit: Using OS detected locale (sv-SE).
+[2023.02.25-07.35.10:846][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2023.02.25-07.35.11:556][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.25-07.35.11:826][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.25-07.35.12:228][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.25-07.35.12:228][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.25-07.35.15:195][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2023.02.25-07.35.15:195][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.25-07.35.15:195][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.25-07.35.15:195][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.25-07.35.15:333][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2023.02.25-07.35.15:333][  0]LogD3D11RHI:       11041/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2023.02.25-07.35.15:376][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2023.02.25-07.35.15:376][  0]LogD3D11RHI:       128/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.02.25-07.35.15:379][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.25-07.35.15:379][  0]LogD3D11RHI:       0/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.25-07.35.15:456][  0]LogD3D11RHI:    3. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2023.02.25-07.35.15:456][  0]LogD3D11RHI:       11041/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2023.02.25-07.35.15:522][  0]LogD3D11RHI:    4. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2023.02.25-07.35.15:522][  0]LogD3D11RHI:       11041/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2023.02.25-07.35.15:522][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.02.25-07.35.15:594][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.25-07.35.15:594][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.25-07.35.15:594][  0]LogWindows: EnumDisplayDevices:
+[2023.02.25-07.35.15:595][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2023.02.25-07.35.15:595][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2023.02.25-07.35.15:595][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2023.02.25-07.35.15:595][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2023.02.25-07.35.15:595][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.02.25-07.35.15:595][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.02.25-07.35.15:596][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.02.25-07.35.15:596][  0]LogWindows:    7. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:596][  0]LogWindows:    8. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:596][  0]LogWindows:    9. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:596][  0]LogWindows:    10. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:597][  0]LogWindows:    11. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:597][  0]LogWindows:    12. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:597][  0]LogWindows:    13. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:597][  0]LogWindows:    14. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:598][  0]LogWindows:    15. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:598][  0]LogWindows:    16. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:598][  0]LogWindows:    17. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:598][  0]LogWindows:    18. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:598][  0]LogWindows:    19. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:598][  0]LogWindows:    20. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:598][  0]LogWindows:    21. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:599][  0]LogWindows:    22. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:599][  0]LogWindows:    23. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:599][  0]LogWindows:    24. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:599][  0]LogWindows:    25. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:599][  0]LogWindows:    26. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:599][  0]LogWindows:    27. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:599][  0]LogWindows:    28. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:600][  0]LogWindows:    29. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:600][  0]LogWindows:    30. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:600][  0]LogWindows:    31. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:600][  0]LogWindows:    32. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:600][  0]LogWindows:    33. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:600][  0]LogWindows:    34. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:601][  0]LogWindows:    35. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:601][  0]LogWindows:    36. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:601][  0]LogWindows:    37. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:601][  0]LogWindows:    38. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.25-07.35.15:601][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.02.25-07.35.15:601][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2023.02.25-07.35.15:602][  0]LogD3D11RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2023.02.25-07.35.15:602][  0]LogD3D11RHI:      Driver Date: 12-5-2022
+[2023.02.25-07.35.15:602][  0]LogRHI: Texture pool is 7728 MB (70% of 11041 MB)
+[2023.02.25-07.35.15:665][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.25-07.35.15:666][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.25-07.35.15:666][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.25-07.35.15:669][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2023.02.25-07.35.17:610][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.02.25-07.35.17:915][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.02.25-07.35.19:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.25-07.35.19:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.25-07.35.19:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.25-07.35.19:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.25-07.35.19:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.25-07.35.19:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.25-07.35.19:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.25-07.35.19:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.25-07.35.19:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.25-07.35.19:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.25-07.35.19:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.25-07.35.19:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.25-07.35.19:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.25-07.35.19:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.25-07.35.19:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.25-07.35.19:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.25-07.35.19:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.25-07.35.20:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.25-07.35.20:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.25-07.35.20:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.25-07.35.20:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.25-07.35.20:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.25-07.35.20:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.25-07.35.20:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.25-07.35.20:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.25-07.35.20:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.25-07.35.20:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.25-07.35.20:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.25-07.35.20:506][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.25-07.35.20:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.25-07.35.20:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.25-07.35.20:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.25-07.35.20:685][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.25-07.35.21:015][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.25-07.35.24:346][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.25-07.35.24:525][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/Shaders/WorkingDirectory/37948/).
+[2023.02.25-07.35.24:526][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aront/AppData/Local/Temp/UnrealShaderWorkingDir/A0ED92464040AE50F8D7B7853886BB7F/'.
+[2023.02.25-07.35.24:636][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.25-07.35.24:636][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.25-07.35.43:022][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.25-07.35.43:095][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/aront/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.02.25-07.35.43:095][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aront/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2023.02.25-07.35.43:095][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/P4GalacticMayhem/Coots/Coots_Gamejam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.25-07.35.43:095][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.25-07.35.43:095][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/P4GalacticMayhem/Coots/Coots_Gamejam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.25-07.35.43:095][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.25-07.35.43:346][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.25-07.35.43:346][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.25-07.35.43:346][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.25-07.35.43:426][  0]LogDerivedDataCache: Speed tests for C:/Users/aront/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
+[2023.02.25-07.35.43:426][  0]LogDerivedDataCache: Display: Performance to C:/Users/aront/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=22.74MBs, RandomWriteSpeed=235.48MBs. Assigned SpeedClass 'Local'
+[2023.02.25-07.35.43:426][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aront/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.25-07.35.43:426][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.25-07.35.43:426][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.25-07.35.44:266][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.25-07.35.44:551][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.25-07.35.46:290][  0]LogAssetRegistry: FAssetRegistry took 0.0084 seconds to start up
+[2023.02.25-07.36.24:889][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.25-07.36.24:889][  0]LogInit: Active device profile: [000001CAB5909F00][000001CAB2F23780 49] Windows
+[2023.02.25-07.36.24:889][  0]LogInit: Profiles: [000001CAB5909F00][000001CAB2F23780 49] Windows, [000001CAB590E300][000001CAB2F2D8C0 49] WindowsNoEditor, [000001CAB590BA00][000001CAB2843A00 49] WindowsServer, [000001CAB590C800][000001CAB284BB80 49] WindowsClient, [000001CAB5908900][000001CAB284FD00 49] IOS, [000001CAB590FA00][000001CAB28521C0 49] iPadAir, [000001CAB5909600][000001CAB2856340 49] iPadAir2, [000001CAB58BB600][000001CAB2864600 49] IPadPro, [000001CAB58BB700][000001CAB285A640 49] iPadAir3, [000001CAB5909300][000001CAB286E7C0 49] iPadAir4, [000001CAB58BB800][000001CAB2872940 49] iPadMini2, [000001CAB590A300][000001CAB2876AC0 49] iPadMini3, [000001CAB58BA500][000001CAB287AC40 49] iPadMini4, [000001CAB590BD00][000001CAB287EDC0 49] iPadMini5, [000001CAB58E2E00][000001CAB2887080 49] iPhone6, [000001CAB58E2F00][000001CAB28830C0 49] iPodTouch6, [000001CAB58BBF00][000001CAB288F380 49] iPhone7, [000001CAB58BB500][000001CAB288B3C0 49] iPodTouch7, [000001CAB58E2700][000001CAB2893540 49] iPhone5S, [000001CAB58BB400][000001CAB2847680 49] iPhone6Plus, [000001CAB58E3E00][000001CAB28977C0 49] iPhone6S, [000001CAB58B9000][000001CAB289B900 49] iPhone6SPlus, [000001CAB58E2900][000001CAB289FA40 49] iPhone7Plus, [000001CAB58BA800][000001CAB28A7BC0 49] iPhoneSE, [000001CAB58E2800][000001CAB28ABD40 49] iPhone8, [000001CAB58B9400][000001CAB28AE200 49] iPhone8Plus, [000001CAB58E1F00][000001CAB28B2380 49] iPhoneX, [000001CAB58B9B00][000001CAB28B6500 49] iPhoneXS, [000001CAB58E0600][000001CAB28BA680 49] iPhoneXSMax, [000001CAB58B8200][000001CAB28BE800 49] iPhoneXR, [000001CAB58E3400][000001CAB28C2980 49] iPhone11, [000001CAB58BB300][000001CAB28C6B00 49] iPhone11Pro, [000001CAB58E0700][000001CAB28CAC80 49] iPhone11ProMax, [000001CAB58B8800][000001CAB28CEE00 49] iPhoneSE2, [000001CAB58E1C00][000001CAB28D2F80 49] iPhone12Mini, [000001CAB58B9D00][000001CAB28D7100 49] iPhone12, [000001CAB58E1600][000001CAB28DB280 49] iPhone12Pro, [000001CAB58BB100][000001CAB28DF400 49] iPhone12ProMax, [000001CAB58E2400][000001CAB28E3580 49] iPadPro105, [000001CAB58BBB00][000001CAB28E7700 49] iPadPro129, [000001CAB58E3C00][000001CAB28A3840 49] iPadPro97, [000001CAB58B9900][000001CAB28EB980 49] iPadPro2_129, [000001CAB590D300][000001CAB28EFAC0 49] iPad5, [000001CAB58E3700][000001CAB28F7C40 49] iPad6, [000001CAB590DE00][000001CAB28FA100 49] iPad7, [000001CAB58E0B00][000001CAB28FE280 49] iPad8, [000001CAB590E900][000001CAB2902400 49] iPadPro11, [000001CAB58E2B00][000001CAB2906580 49] iPadPro2_11, [000001CAB590E600][000001CAB290A700 49] iPadPro3_129, [000001CAB58E2000][000001CAB290E880 49] iPadPro4_129, [000001CAB590DD00][000001CAB2912A00 49] AppleTV, [000001CAB58E1B00][000001CAB2916B80 49] AppleTV4K, [000001CAB590C400][000001CAB291AD00 49] TVOS, [000001CAB58E0800][000001CAB291EE80 49] Mac, [000001CAB58B8D00][000001CAB2923000 49] MacClient, [000001CAB590E200][000001CAB2927180 49] MacNoEditor, [000001CAB58BA600][000001CAB292B300 49] MacServer, [000001CAB58E0500][000001CAB292F480 49] Linux, [000001CAB58B9200][000001CAB2933600 49] LinuxAArch64, [000001CAB58E2200][000001CAB2937780 49] LinuxNoEditor, [000001CAB58B9500][000001CAB28F38C0 49] LinuxAArch64NoEditor, [000001CAB58E1500][000001CAB293BA00 49] LinuxClient, [000001CAB58BB200][000001CAB293FB40 49] LinuxAArch64Client, [000001CAB58E1D00][000001CAB2947CC0 49] LinuxServer, [000001CAB58BA200][000001CAB294A180 49] LinuxAArch64Server, [000001CAB58E0400][000001CAB294E300 49] Android, [000001CAB58B9E00][000001CAB2952480 49] Android_Low, [000001CAB58E3800][000001CAB2956600 49] Android_Mid, [000001CAB58B9100][000001CAB295A780 49] Android_High, [000001CAB58E1100][000001CAB295E900 49] Android_Default, [000001CAB58B8700][000001CAB2962A80 49] Android_Adreno4xx, [000001CAB58E3300][000001CAB2966C00 49] Android_Adreno5xx_Low, [000001CAB58B8900][000001CAB296AD80 49] Android_Adreno5xx, [000001CAB58E3B00][000001CAB296EF00 49] Android_Adreno6xx, [000001CAB58B9300][000001CAB2973080 49] Android_Adreno6xx_Vulkan, [000001CAB58E0D00][000001CAB2977200 49] Android_Mali_T6xx, [000001CAB58BA400][000001CAB297B380 49] Android_Mali_T7xx, [000001CAB58E3600][000001CAB297F500 49] Android_Mali_T8xx, [000001CAB58B8C00][000001CAB2983680 49] Android_Mali_G71, [000001CAB58E1400][000001CAB2987800 49] Android_Mali_G72, [000001CAB58BB900][000001CAB2943940 49] Android_Mali_G72_Vulkan, [000001CAB58E1200][000001CAB298BA80 49] Android_Mali_G76, [000001CAB58B8300][000001CAB298FBC0 49] Android_Mali_G76_Vulkan, [000001CAB58E2A00][000001CAB2993D00 49] Android_Mali_G77, [000001CAB58B8100][000001CAB299A1C0 49] Android_Mali_G77_Vulkan, [000001CAB58E0100][000001CAB299E340 49] Android_Vulkan_SM5, [000001CAB58B9F00][000001CAB29A24C0 49] Android_PowerVR_G6xxx, [000001CAB58E3900][000001CAB29A6640 49] Android_PowerVR_GT7xxx, [000001CAB58B8B00][000001CAB29AA7C0 49] Android_PowerVR_GE8xxx, [000001CAB58E2D00][000001CAB29AE940 49] Android_PowerVR_GM9xxx, [000001CAB58BBD00][000001CAB29B2AC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001CAB58E1E00][000001CAB29B6C40 49] Android_TegraK1, [000001CAB58BA900][000001CAB29BADC0 49] Android_Unknown_Vulkan, [000001CAB58E0E00][000001CAB29BEF40 49] Lumin, [000001CAB58BA700][000001CAB29C30C0 49] Lumin_Desktop, [000001CAB58E0A00][000001CAB29C7240 49] HoloLens, 
+[2023.02.25-07.36.27:859][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.25-07.36.27:859][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.25-07.36.27:859][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.25-07.36.27:859][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.25-07.36.27:884][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.25-07.36.31:966][  0]LogNetVersion: Coots_Gamejam 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2060570115)
+[2023.02.25-07.36.44:627][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.25-07.36.44:816][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.127799 seconds
+[2023.02.25-07.36.44:880][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2023.02.25-07.36.44:889][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2023.02.25-07.36.44:889][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.25-07.36.46:826][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2023.02.25-07.36.47:409][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/CachedAssetRegistry.bin'.
+[2023.02.25-07.36.47:409][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2023.02.25-07.36.48:346][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/CachedAssetRegistry.bin'.
+[2023.02.25-07.36.48:346][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.25-07.36.48:366][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.25-07.36.53:570][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.25-07.36.54:226][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.25-07.36.54:226][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.25-07.36.54:845][  0]SourceControl: Source control is disabled
+[2023.02.25-07.36.54:845][  0]SourceControl: Source control is disabled
+[2023.02.25-07.36.55:062][  0]LogUProjectInfo: Found projects:
+[2023.02.25-07.36.56:193][  0]LogCollectionManager: Loaded 0 collections in 0.001492 seconds
+[2023.02.25-07.36.56:481][  0]LogFileCache: Scanning file cache for directory 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Collections/' took 0.02s
+[2023.02.25-07.36.56:481][  0]LogFileCache: Scanning file cache for directory 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Developers/aront/Collections/' took 0.00s
+[2023.02.25-07.36.56:481][  0]LogFileCache: Scanning file cache for directory 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Collections/' took 0.00s
+[2023.02.25-07.36.56:481][  0]LogOcInput: OculusInput pre-init called
+[2023.02.25-07.36.56:625][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.02.25-07.36.56:625][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.02.25-07.36.58:878][  0]LogEngine: Initializing Engine...
+[2023.02.25-07.36.59:018][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.02.25-07.36.59:065][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.25-07.36.59:232][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.026 s
+[2023.02.25-07.36.59:519][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.25-07.37.00:366][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.25-07.37.00:437][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.25-07.37.00:527][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.25-07.37.00:527][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.25-07.37.00:544][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.25-07.37.00:544][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.25-07.37.00:544][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.25-07.37.00:544][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.25-07.37.00:544][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.25-07.37.00:544][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.25-07.37.00:544][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.25-07.37.00:547][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.25-07.37.00:556][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.25-07.37.00:556][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.25-07.37.00:721][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.25-07.37.00:721][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.25-07.37.00:741][  0]LogAudioMixer: Display: Using Audio Device Högtalare (2- Scarlett Solo USB)
+[2023.02.25-07.37.00:806][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.25-07.37.00:808][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.25-07.37.00:809][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.25-07.37.00:812][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.25-07.37.00:812][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.25-07.37.00:812][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.25-07.37.00:813][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.25-07.37.00:813][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.25-07.37.00:813][  0]LogInit: FAudioDevice initialized.
+[2023.02.25-07.37.00:827][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.25-07.37.00:851][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.25-07.37.00:885][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/aront/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.02.25-07.37.00:885][  0]LogInit: Texture streaming: Enabled
+[2023.02.25-07.37.01:177][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2023.02.25-07.37.01:267][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.25-07.37.01:284][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.25-07.37.01:307][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.25-07.37.01:665][  0]LogInit: Transaction tracking system initialized
+[2023.02.25-07.37.02:083][  0]BlueprintLog: New page: Editor Load
+[2023.02.25-07.37.03:565][  0]LocalizationService: Localization service is disabled
+[2023.02.25-07.37.04:103][  0]TimingProfiler: Initialize
+[2023.02.25-07.37.04:105][  0]TimingProfiler: OnSessionChanged
+[2023.02.25-07.37.04:105][  0]LoadingProfiler: Initialize
+[2023.02.25-07.37.04:106][  0]LoadingProfiler: OnSessionChanged
+[2023.02.25-07.37.04:106][  0]NetworkingProfiler: Initialize
+[2023.02.25-07.37.04:106][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.25-07.37.04:106][  0]MemoryProfiler: Initialize
+[2023.02.25-07.37.04:106][  0]MemoryProfiler: OnSessionChanged
+[2023.02.25-07.37.05:564][  0]DDCNotifications: Shared DDC not detected, performance notification enabled
+[2023.02.25-07.37.08:265][  0]LogFileCache: Scanning file cache for directory 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/' took 0.00s
+[2023.02.25-07.37.08:265][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.25-07.37.08:265][  0]LogCook: Display: Mobile HDR setting 0
+[2023.02.25-07.37.17:374][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.25-07.37.18:239][  0]LogUnrealEdMisc: Loading editor; pre map load, took 158.784
+[2023.02.25-07.37.18:285][  0]Cmd: MAP LOAD FILE="E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/L_Master.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.25-07.37.18:288][  0]LightingResults: New page: Lighting Build
+[2023.02.25-07.37.18:447][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-07.37.18:566][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-07.37.18:685][  0]MapCheck: New page: Map Check
+[2023.02.25-07.37.18:685][  0]LightingResults: New page: Lighting Build
+[2023.02.25-07.37.19:457][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2023.02.25-07.37.24:184][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Master'.
+[2023.02.25-07.37.24:197][  0]LogAIModule: Creating AISystem for world L_Master
+[2023.02.25-07.37.25:558][  0]LogPhysics: Warning: Initialising Body : Body is mirrored but bGenerateMirroredCollision == false: Component: '/Game/Levels/L_Master.L_Master:PersistentLevel.PostProcessVolume_1.BrushComponent0' 
+[2023.02.25-07.37.25:558][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.02.25-07.37.25:558][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.02.25-07.37.26:105][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.25-07.37.26:368][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.02.25-07.37.26:402][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.25-07.37.26:413][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 10,107ms to complete.
+[2023.02.25-07.37.26:413][  0]LogFileHelpers: Loading map 'L_Master' took 8.147
+[2023.02.25-07.37.28:235][  0]LogUnrealEdMisc: Total Editor Startup Time, took 168.794
+[2023.02.25-07.37.29:222][  0]LogSourceControl: Attempting 'p4 client -o AronTinz_DESKTOP-LP1QBOO_5193'
+[2023.02.25-07.37.29:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.25-07.37.29:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.25-07.37.29:240][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.25-07.37.29:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.25-07.37.29:476][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0069 seconds. Added 3676 classes and 892 folders.
+[2023.02.25-07.37.29:658][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.25-07.37.29:787][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.25-07.37.29:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.25-07.37.29:799][  0]LogPakFile: OnPakFileMounted2Time == 0.011947
+[2023.02.25-07.37.29:830][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.25-07.37.29:830][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:830][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.25-07.37.29:830][  0]LogPakFile: OnPakFileMounted2Time == 0.011950
+[2023.02.25-07.37.29:836][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.25-07.37.29:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.25-07.37.29:836][  0]LogPakFile: OnPakFileMounted2Time == 0.011954
+[2023.02.25-07.37.29:844][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.25-07.37.29:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.25-07.37.29:844][  0]LogPakFile: OnPakFileMounted2Time == 0.011957
+[2023.02.25-07.37.29:854][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.25-07.37.29:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.25-07.37.29:854][  0]LogPakFile: OnPakFileMounted2Time == 0.011961
+[2023.02.25-07.37.29:870][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.25-07.37.29:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.25-07.37.29:870][  0]LogPakFile: OnPakFileMounted2Time == 0.011964
+[2023.02.25-07.37.29:884][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.25-07.37.29:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.25-07.37.29:884][  0]LogPakFile: OnPakFileMounted2Time == 0.011968
+[2023.02.25-07.37.29:890][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.25-07.37.29:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.25-07.37.29:890][  0]LogPakFile: OnPakFileMounted2Time == 0.011972
+[2023.02.25-07.37.29:897][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.25-07.37.29:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.25-07.37.29:897][  0]LogPakFile: OnPakFileMounted2Time == 0.011977
+[2023.02.25-07.37.29:913][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.25-07.37.29:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.25-07.37.29:913][  0]LogPakFile: OnPakFileMounted2Time == 0.011981
+[2023.02.25-07.37.29:921][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.25-07.37.29:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.25-07.37.29:921][  0]LogPakFile: OnPakFileMounted2Time == 0.011984
+[2023.02.25-07.37.29:926][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.25-07.37.29:926][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.25-07.37.29:926][  0]LogPakFile: OnPakFileMounted2Time == 0.011987
+[2023.02.25-07.37.29:944][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.25-07.37.29:944][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:944][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.25-07.37.29:944][  0]LogPakFile: OnPakFileMounted2Time == 0.011990
+[2023.02.25-07.37.29:958][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.25-07.37.29:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.25-07.37.29:958][  0]LogPakFile: OnPakFileMounted2Time == 0.011993
+[2023.02.25-07.37.29:972][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.25-07.37.29:972][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:972][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.25-07.37.29:972][  0]LogPakFile: OnPakFileMounted2Time == 0.011997
+[2023.02.25-07.37.29:978][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.25-07.37.29:978][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:978][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.25-07.37.29:978][  0]LogPakFile: OnPakFileMounted2Time == 0.012000
+[2023.02.25-07.37.29:982][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.25-07.37.29:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.25-07.37.29:982][  0]LogPakFile: OnPakFileMounted2Time == 0.012004
+[2023.02.25-07.37.29:989][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.25-07.37.29:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.25-07.37.29:989][  0]LogPakFile: OnPakFileMounted2Time == 0.012007
+[2023.02.25-07.37.29:994][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.25-07.37.29:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.29:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.25-07.37.29:994][  0]LogPakFile: OnPakFileMounted2Time == 0.012010
+[2023.02.25-07.37.30:002][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.25-07.37.30:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.30:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.25-07.37.30:002][  0]LogPakFile: OnPakFileMounted2Time == 0.012013
+[2023.02.25-07.37.30:006][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.25-07.37.30:007][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.30:007][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.25-07.37.30:007][  0]LogPakFile: OnPakFileMounted2Time == 0.012018
+[2023.02.25-07.37.30:012][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.25-07.37.30:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.30:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.25-07.37.30:012][  0]LogPakFile: OnPakFileMounted2Time == 0.012021
+[2023.02.25-07.37.30:041][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.25-07.37.30:041][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.30:041][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.25-07.37.30:041][  0]LogPakFile: OnPakFileMounted2Time == 0.012024
+[2023.02.25-07.37.30:050][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.25-07.37.30:050][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.30:050][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.25-07.37.30:050][  0]LogPakFile: OnPakFileMounted2Time == 0.012027
+[2023.02.25-07.37.30:060][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.25-07.37.30:060][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.30:060][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.25-07.37.30:060][  0]LogPakFile: OnPakFileMounted2Time == 0.012031
+[2023.02.25-07.37.30:065][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.25-07.37.30:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.25-07.37.30:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.25-07.37.30:065][  0]LogPakFile: OnPakFileMounted2Time == 0.012034
+[2023.02.25-07.37.31:150][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.25-07.37.31:200][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.02.25-07.37.32:422][  0]LogSlate: Took 0.034090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.25-07.37.32:477][  0]LogSlate: Took 0.035716 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.25-07.37.32:553][  0]LogSlate: Took 0.013136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.25-07.37.33:353][  0]LogRenderer: Reallocating scene render targets to support 1128x552 Format 10 NumSamples 1 (Frame:1).
+[2023.02.25-07.37.34:367][  0]LogSlate: Took 0.014364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.25-07.37.34:697][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.25-07.37.34:697][  0]LogLoad: (Engine Initialization) Total time: 175.26 seconds
+[2023.02.25-07.37.34:698][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.25-07.37.34:706][  0]LogInit: First time updating LLM stats...
+[2023.02.25-07.37.35:877][  0]SourceControl: Client AronTinz_DESKTOP-LP1QBOO_5193
+[2023.02.25-07.37.35:877][  0]SourceControl: Update 2022/07/24 16:50:55
+[2023.02.25-07.37.35:877][  0]SourceControl: Access 2023/02/24 20:51:53
+[2023.02.25-07.37.35:877][  0]SourceControl: Owner AronTinz
+[2023.02.25-07.37.35:877][  0]SourceControl: Host DESKTOP-LP1QBOO
+[2023.02.25-07.37.35:877][  0]SourceControl: Description Created by AronTinz.
+
+[2023.02.25-07.37.35:877][  0]SourceControl: Root E:\P4GalacticMayhem
+[2023.02.25-07.37.35:877][  0]SourceControl: Options noallwrite noclobber nocompress unlocked nomodtime normdir
+[2023.02.25-07.37.35:877][  0]SourceControl: SubmitOptions submitunchanged
+[2023.02.25-07.37.35:877][  0]SourceControl: LineEnd local
+[2023.02.25-07.37.35:877][  0]SourceControl: View0 //depot/... //AronTinz_DESKTOP-LP1QBOO_5193/...
+[2023.02.25-07.37.35:877][  0]SourceControl: Type writeable
+[2023.02.25-07.37.35:877][  0]SourceControl: Backup enable
+[2023.02.25-07.37.35:877][  0]SourceControl: specFormatted 
+[2023.02.25-07.37.35:877][  0]SourceControl: func client-FstatInfo
+[2023.02.25-07.37.35:932][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.25-07.37.36:403][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/' took 1.32s
+[2023.02.25-07.37.36:629][  2]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Config/DefaultEngine.ini D:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset'
+[2023.02.25-07.37.36:735][  2]LogAssetRegistry: Asset discovery search completed in 110.4472 seconds
+[2023.02.25-07.37.36:748][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000315 seconds (updated 0 objects)
+[2023.02.25-07.37.36:774][  2]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-07.37.36:785][  2]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.25-07.37.40:463][ 14]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Body_Alpha.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Body_Basecolor.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Hand_Alpha.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Hand_Basecolor.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK_PhysicsAsset.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK_Skeleton.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/SlimeBody_Mat.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/SlimeHand_Mat.uasset'
+[2023.02.25-07.38.35:180][176]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/ReimportCache/3688439234.bin', retrying in .5s...
+[2023.02.25-07.38.35:682][176]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/ReimportCache/3688439234.bin'.
+[2023.02.25-07.38.35:699][176]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.02.25-07.39.57:207][176]LogStats: FPlatformStackWalk::StackWalkAndDump - 81.509 s
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: === Handled ensure: ===
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: 
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: Ensure condition failed: bMoved [File:D:/Build/++UE4/Sync/Engine/Source/Developer/DirectoryWatcher/Private/FileCache.cpp] [Line: 545]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: Unable to move file-cache for 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/' from 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/ReimportCache/3688439234.bin.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/ReimportCache/3688439234.bin' (free disk space: 0)
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: Stack: 
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffa1f1ec065 UE4Editor-DirectoryWatcher.dll!DispatchCheckVerify<bool,<lambda_3bd4fe4e871e71358d28b239b491747f> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffa1f1e3bae UE4Editor-DirectoryWatcher.dll!DirectoryWatcher::FFileCache::WriteCache() [D:\Build\++UE4\Sync\Engine\Source\Developer\DirectoryWatcher\Private\FileCache.cpp:545]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffa257b764e UE4Editor-UnrealEd.dll!FContentDirectoryMonitor::Tick() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\AutoReimport\ContentDirectoryMonitor.cpp:141]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffa2579ec56 UE4Editor-UnrealEd.dll!FAutoReimportManager::PromptUser() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\AutoReimport\AutoReimportManager.cpp:586]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffa2574a157 UE4Editor-UnrealEd.dll!UE4Function_Private::TFunctionRefCaller<<lambda_8d51ba64237a004f687eebdb8c629d0e>,TOptional<enum ECurrentState> __cdecl(DirectoryWatcher::FTimeLimit const &)>::Call() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Templates\Function.h:539]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffa257b7451 UE4Editor-UnrealEd.dll!FAutoReimportManager::Tick() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\AutoReimport\AutoReimportManager.cpp:886]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffa256f4a29 UE4Editor-UnrealEd.dll!FTickableEditorObject::TickObjects() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Public\TickableEditorObject.h:45]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffa25b08656 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:1501]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffa264250e6 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdEngine.cpp:426]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ff7bbb89bc2 UE4Editor.exe!FEngineLoop::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4836]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ff7bbba117c UE4Editor.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:169]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ff7bbba125a UE4Editor.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ff7bbbb52bd UE4Editor.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:268]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ff7bbbb7fea UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffbadc87614 KERNEL32.DLL!UnknownFunction []
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: [Callstack] 0x00007ffbaed026a1 ntdll.dll!UnknownFunction []
+[2023.02.25-07.39.57:220][176]LogOutputDevice: Error: 
+[2023.02.25-07.39.57:231][176]LogStats:                SubmitErrorReport -  0.000 s
+[2023.02.25-07.40.06:926][176]LogStats:                    SendNewReport -  9.695 s
+[2023.02.25-07.40.06:926][176]LogStats:             FDebug::EnsureFailed - 91.226 s
+[2023.02.25-08.18.59:450][145]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{72cb8f22-6ef3-422b-8048-db2287f90bb2}.
+[2023.02.25-08.18.59:450][145]LogAudioMixer: Resetting audio stream to device id 
+[2023.02.25-08.18.59:469][145]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.25-08.18.59:469][145]LogAudioMixer: Display: 1: FrontRight
+[2023.02.25-08.18.59:469][145]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.25-08.18.59:469][145]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.25-08.18.59:469][145]LogAudioMixer: Display: 4: BackLeft
+[2023.02.25-08.18.59:469][145]LogAudioMixer: Display: 5: BackRight
+[2023.02.25-08.18.59:469][145]LogAudioMixer: Display: 6: SideLeft
+[2023.02.25-08.18.59:469][145]LogAudioMixer: Display: 7: SideRight
+[2023.02.25-08.19.44:336][ 85]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Gamemode_Coots.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/M_Visararn.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/MainMenuPlayer.uasset'
+[2023.02.25-08.19.47:281][330]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/L_Master.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/L_Master_BuiltData.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/MainMenu.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/Metrics_Test.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/MovementTestLevel.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/TemplateLevel.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/TestLevel.umap'
+[2023.02.25-08.19.47:281][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.25-08.19.48:269][330]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2023.02.25-08.19.48:269][330]Cmd: MAP LOAD FILE="E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.25-08.19.48:269][330]LightingResults: New page: Lighting Build
+[2023.02.25-08.19.48:269][330]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.02.25-08.19.48:363][330]LogWorld: UWorld::CleanupWorld for L_Master, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-08.19.48:404][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-08.19.48:420][330]MapCheck: New page: Map Check
+[2023.02.25-08.19.48:420][330]LightingResults: New page: Lighting Build
+[2023.02.25-08.19.48:447][330]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.25-08.19.48:601][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.02.25-08.19.48:612][330]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.02.25-08.19.49:676][330]LogPhysics: Warning: Initialising Body : Body is mirrored but bGenerateMirroredCollision == false: Component: '/Game/Levels/MainMenu.MainMenu:PersistentLevel.PostProcessVolume_1.BrushComponent0' 
+[2023.02.25-08.19.49:676][330]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.02.25-08.19.49:676][330]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.02.25-08.19.50:067][330]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.25-08.19.50:067][330]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.25-08.19.50:112][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.25-08.19.50:128][330]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.25-08.19.50:128][330]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,168ms to complete.
+[2023.02.25-08.19.50:128][330]LogFileHelpers: Loading map 'MainMenu' took 1.858
+[2023.02.25-08.21.21:081][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CarsBed2)
+[2023.02.25-08.21.51:058][370]LogSlate: Window 'FBX Export Options' being destroyed
+[2023.02.25-08.21.51:285][370]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2023.02.25-08.25.15:572][796]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Gamemode_Coots.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/M_Visararn.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/MainMenuPlayer.uasset'
+[2023.02.25-08.25.16:900][932]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Coots_sk.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Coots_sk_PhysicsAsset.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Coots_sk_Skeleton.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/lambert2.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/lkjasdlkjas.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Player_Coots.uasset'
+[2023.02.25-08.25.20:013][211]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Player/Player_Coots.Player_Coots
+[2023.02.25-08.25.20:693][211]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.02.25-08.25.22:598][211]LogSlate: Took 0.018374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.25-08.25.23:112][212]LogSlate: Took 0.012081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.25-08.25.24:745][324]LogSlate: Window 'Player_Coots' being destroyed
+[2023.02.25-08.25.24:751][324]LogSlate: Window 'Player_Coots' being destroyed
+[2023.02.25-08.25.24:852][324]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-08.25.24:852][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-08.25.27:639][503]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Player_Coots.uasset'
+[2023.02.25-08.25.27:727][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Player/Player_Coots" FILE="E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Player_Coots.uasset" SILENT=true
+[2023.02.25-08.25.28:042][503]LogSavePackage: Moving 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Player_Coots2B107F5940818EFC527320A4040EA33E.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Player_Coots.uasset'
+[2023.02.25-08.25.38:016][503]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.25-08.25.42:665][503]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Player_Coots.uasset'
+[2023.02.25-08.25.42:665][503]LogSourceControl: Attempting 'p4 diff -sa E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Player_Coots.uasset'
+[2023.02.25-08.25.42:665][503]LogSourceControl: Attempting 'p4 reopen -c 276 E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Player_Coots.uasset'
+[2023.02.25-08.25.42:665][503]LogSourceControl: Attempting 'p4 submit -c 276'
+[2023.02.25-08.25.42:666][503]SourceControl: Submitted changelist 276
+[2023.02.25-08.25.42:688][503]AssetCheck: New page: Asset Save: Player_Coots
+[2023.02.25-08.25.42:689][503]LogContentValidation: Display: Validating Blueprint /Game/Core/Player/Player_Coots.Player_Coots
+[2023.02.25-10.24.37:965][442]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Gamemode_Coots.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/M_Visararn.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/MainMenuPlayer.uasset'
+[2023.02.25-10.24.38:182][465]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.25-10.24.38:198][465]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.25-10.24.40:154][698]LogContentBrowser: Attempting asset rename: NewFolder -> Cutscenes
+[2023.02.25-10.24.40:154][698]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.25-10.24.42:764][984]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.25-10.24.42:779][984]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.25-10.26.20:091][741]LogContentBrowser: Attempting asset rename: NewFolder -> IntroCutscene
+[2023.02.25-10.26.20:091][741]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.25-10.26.41:480][239]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2023.02.25-10.26.41:490][239]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2023.02.25-10.29.13:062][849]LogContentBrowser: Attempting asset rename: NewLevelSequence -> NewLevelSequence
+[2023.02.25-10.29.13:896][849]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/NewLevelSequence.uasset'
+[2023.02.25-10.29.13:897][849]LogContentBrowser: End creating deferred item NewLevelSequence
+[2023.02.25-10.29.14:504][893]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/NewLevelSequence.uasset'
+[2023.02.25-10.29.31:229][863]LogContentBrowser: Attempting asset rename: NewLevelSequence -> IntroCutscene
+[2023.02.25-10.29.31:953][863]LogSourceControl: Attempting 'p4 client -o AronTinz_DESKTOP-LP1QBOO_5193'
+[2023.02.25-10.29.31:953][863]SourceControl: Client AronTinz_DESKTOP-LP1QBOO_5193
+[2023.02.25-10.29.31:953][863]SourceControl: Update 2022/07/24 16:50:55
+[2023.02.25-10.29.31:953][863]SourceControl: Access 2023/02/25 09:21:06
+[2023.02.25-10.29.31:953][863]SourceControl: Owner AronTinz
+[2023.02.25-10.29.31:953][863]SourceControl: Host DESKTOP-LP1QBOO
+[2023.02.25-10.29.31:953][863]SourceControl: Description Created by AronTinz.
+
+[2023.02.25-10.29.31:953][863]SourceControl: Root E:\P4GalacticMayhem
+[2023.02.25-10.29.31:953][863]SourceControl: Options noallwrite noclobber nocompress unlocked nomodtime normdir
+[2023.02.25-10.29.31:953][863]SourceControl: SubmitOptions submitunchanged
+[2023.02.25-10.29.31:953][863]SourceControl: LineEnd local
+[2023.02.25-10.29.31:953][863]SourceControl: View0 //depot/... //AronTinz_DESKTOP-LP1QBOO_5193/...
+[2023.02.25-10.29.31:953][863]SourceControl: Type writeable
+[2023.02.25-10.29.31:953][863]SourceControl: Backup enable
+[2023.02.25-10.29.31:953][863]SourceControl: specFormatted 
+[2023.02.25-10.29.31:953][863]SourceControl: func client-FstatInfo
+[2023.02.25-10.29.34:131][863]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/NewLevelSequence.uasset'
+[2023.02.25-10.29.34:131][863]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/NewLevelSequence.uasset'
+[2023.02.25-10.29.34:131][863]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/NewLevelSequence.uasset'
+[2023.02.25-10.29.34:205][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Cutscenes/IntroCutscene/IntroCutscene" FILE="E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/IntroCutscene.uasset" SILENT=true
+[2023.02.25-10.29.34:215][863]LogSavePackage: Moving 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/IntroCutscene8BBBCDE04E2148B5131D788E06892691.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/IntroCutscene.uasset'
+[2023.02.25-10.29.35:099][863]LogSourceControl: Attempting 'p4 add E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/IntroCutscene.uasset'
+[2023.02.25-10.29.35:848][863]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/NewLevelSequence.uasset'
+[2023.02.25-10.29.36:604][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.02.25-10.29.36:640][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.02.25-10.29.36:656][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.02.25-10.29.36:784][863]AssetCheck: New page: Asset Save: IntroCutscene
+[2023.02.25-10.29.36:784][863]LogContentValidation: Display: Validating LevelSequence /Game/Core/Cutscenes/IntroCutscene/IntroCutscene.IntroCutscene
+[2023.02.25-10.29.36:928][876]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2023.02.25-10.29.37:435][937]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/CachedAssetRegistry.bin'.
+[2023.02.25-10.30.52:539][284]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Core/Cutscenes/IntroCutscene/IntroCutscene.IntroCutscene
+[2023.02.25-10.54.40:714][720]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.uasset'
+[2023.02.25-10.54.40:714][720]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aront\Desktop\CootsAnims\Ludwig\Ludwig_Intro_Anim.fbx)
+[2023.02.25-10.54.40:797][720]LogFbx: Loading FBX Scene from C:\Users\aront\Desktop\CootsAnims\Ludwig\Ludwig_Intro_Anim.fbx
+[2023.02.25-10.54.40:822][720]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-10.54.40:827][720]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2023.02.25-10.54.46:235][720]LogSlate: Window 'Message' being destroyed
+[2023.02.25-10.54.46:242][720]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\aront\Desktop\CootsAnims\Ludwig\Ludwig_Intro_Anim.fbx'. Failed to create asset '/Game/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim'.
+Please see Output Log for details.
+[2023.02.25-10.54.46:242][720]LogAssetTools: Warning: Failed to import 'C:\Users\aront\Desktop\CootsAnims\Ludwig\Ludwig_Intro_Anim.fbx'. Failed to create asset '/Game/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim'.
+Please see Output Log for details.
+[2023.02.25-10.54.46:357][720]LogSlate: Took 0.056036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.25-10.55.24:288][347]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.uasset'
+[2023.02.25-10.55.24:288][347]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aront\Desktop\CootsAnims\Ludwig\Ludwig_Intro_Anim.fbx)
+[2023.02.25-10.55.24:301][347]LogFbx: Loading FBX Scene from C:\Users\aront\Desktop\CootsAnims\Ludwig\Ludwig_Intro_Anim.fbx
+[2023.02.25-10.55.24:351][347]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-10.55.33:047][347]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.25-10.55.33:119][347]LogFbx: SortedLinks :(0) Ludwig_Joint_1
+[2023.02.25-10.55.33:119][347]LogFbx: SortedLinks :(1) Ludwig_Joint_2
+[2023.02.25-10.55.33:119][347]LogFbx: SortedLinks :(2) Ludwig_Joint_3
+[2023.02.25-10.55.33:119][347]LogFbx: SortedLinks :(3) Ludwig_Joint_4
+[2023.02.25-10.55.33:119][347]LogFbx: SortedLinks :(4) Ludwig_Joint_5
+[2023.02.25-10.55.33:164][347]LogFbx: Parsing AnimStack Take 001
+[2023.02.25-10.55.33:249][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.Ludwig_Intro_Anim
+[2023.02.25-10.55.33:249][347]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Ludwig_Joint_1:0) 
+Source Global Transform (-1.375895,-1.225708,0.763525|20.674974,-9.414392,89.999992|0.017582,0.017582,0.017582), 
+Converted Global Transform (-137.589508,-122.570778,76.352470|20.674974,-9.414392,90.000000|1.758195,1.758195,1.758195)
+[2023.02.25-10.55.33:296][347]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2023.02.25-10.55.33:310][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.Ludwig_Intro_Anim
+[2023.02.25-10.55.33:919][383]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Coots_sk_Skeleton.uasset D:/Epic Games/UE_4.26/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_SK_Skeleton.uasset D:/Epic Games/UE_4.26/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK_Skeleton.uasset D:/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset'
+[2023.02.25-10.55.33:921][383]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.uasset'
+[2023.02.25-10.55.34:046][392]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-10.55.34:046][392]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-10.55.34:046][392]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-10.55.37:938][716]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-10.55.37:945][716]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-10.55.39:133][823]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.Ludwig_Intro_Anim
+[2023.02.25-10.55.39:265][823]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.02.25-10.55.39:878][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.25-10.55.39:917][823]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2023.02.25-10.55.41:082][823]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.02.25-10.55.42:463][915]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Anims/Ludwig_MainMenu_Anim.uasset'
+[2023.02.25-10.56.45:242][633]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.uasset'
+[2023.02.25-10.56.45:262][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim" FILE="E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.uasset" SILENT=true
+[2023.02.25-10.56.45:282][633]LogSavePackage: Moving 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Ludwig_Intro_Anim20BCFA424FD0FE386D5F7E9ED546376D.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.uasset'
+[2023.02.25-10.56.46:119][633]LogSourceControl: Attempting 'p4 add E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.uasset'
+[2023.02.25-10.56.46:138][633]AssetCheck: New page: Asset Save: Ludwig_Intro_Anim
+[2023.02.25-10.56.46:138][633]LogContentValidation: Display: Validating AnimSequence /Game/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.Ludwig_Intro_Anim
+[2023.02.25-10.56.46:222][640]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2023.02.25-10.56.46:723][676]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/CachedAssetRegistry.bin'.
+[2023.02.25-10.58.42:653][922]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.uasset'
+[2023.02.25-10.58.42:653][922]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aront\Desktop\CootsAnims\Slime\Slime_Intro_Anim.fbx)
+[2023.02.25-10.58.42:665][922]LogFbx: Loading FBX Scene from C:\Users\aront\Desktop\CootsAnims\Slime\Slime_Intro_Anim.fbx
+[2023.02.25-10.58.42:670][922]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-10.58.47:641][922]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.25-10.58.47:654][922]LogFbx: SortedLinks :(0) SlimeRoot
+[2023.02.25-10.58.47:654][922]LogFbx: SortedLinks :(1) SlimeBody
+[2023.02.25-10.58.47:654][922]LogFbx: SortedLinks :(2) SlimeHand
+[2023.02.25-10.58.47:655][922]LogFbx: Parsing AnimStack Take 001
+[2023.02.25-10.58.47:684][922]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (SlimeRoot:0) 
+Source Global Transform (0.834075,-1.741966,0.000000|0.000000,-89.999992,0.000000|0.001194,0.001194,0.001194), 
+Converted Global Transform (83.407486,-174.196609,-0.000000|0.000000,-89.999985,0.000000|0.119396,0.119396,0.119396)
+[2023.02.25-10.58.47:686][922]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.Slime_Intro_Anim
+[2023.02.25-10.58.47:686][922]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Slime_SK_Skeleton.  Any animation on these bones will not be imported: 
+
+ SlimeBody  
+SlimeHand  
+ 
+[2023.02.25-10.58.47:686][922]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2023.02.25-10.58.47:726][922]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.Slime_Intro_Anim
+[2023.02.25-10.58.48:341][939]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.uasset'
+[2023.02.25-10.59.38:448][693]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-10.59.38:455][693]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-11.01.41:159][753]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.Slime_Intro_Anim
+[2023.02.25-11.01.41:172][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.25-11.01.41:438][753]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.02.25-11.02.02:343][285]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Gamemode_Coots.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/M_Visararn.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/MainMenuPlayer.uasset'
+[2023.02.25-11.02.03:939][389]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Body_Alpha.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Body_Basecolor.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Hand_Alpha.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Hand_Basecolor.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK_PhysicsAsset.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK_Skeleton.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/SlimeBody_Mat.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/SlimeHand_Mat.uasset'
+[2023.02.25-11.02.05:059][464]LogEditorFactories: Performing atomic reimport of [C:/Users/aront/Desktop/CootsAnims/Slime/Slime_SK.fbx]
+[2023.02.25-11.02.05:173][464]LogFbx: Loading FBX Scene from C:/Users/aront/Desktop/CootsAnims/Slime/Slime_SK.fbx
+[2023.02.25-11.02.05:216][464]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.02.05:274][464]LogFbx: Valid bind pose for Pose (skinCluster1) - SlimeBody
+[2023.02.25-11.02.05:274][464]LogFbx: Valid bind pose for Pose (skinCluster2) - SlimeBody
+[2023.02.25-11.02.05:293][464]LogFbx: Triangulating skeletal mesh SlimeBody
+[2023.02.25-11.02.05:336][464]LogFbx: Triangulating skeletal mesh SlimeHand
+[2023.02.25-11.02.05:379][464]LogFbx: Warning: Bones digested - 3  Depth of hierarchy - 2
+[2023.02.25-11.02.05:464][464]LogSkeletalMesh: Section 0: Material=0, 8 triangles
+[2023.02.25-11.02.05:464][464]LogSkeletalMesh: Section 1: Material=1, 8 triangles
+[2023.02.25-11.02.05:472][464]LogEditorFactories: -- imported successfully
+[2023.02.25-11.02.05:474][464]LogSkeletalMesh: Building Skeletal Mesh Slime_SK...
+[2023.02.25-11.02.05:508][464]LogSkeletalMesh: Section 0: Material=0, 8 triangles
+[2023.02.25-11.02.05:508][464]LogSkeletalMesh: Section 1: Material=1, 8 triangles
+[2023.02.25-11.02.05:538][464]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Core/Slime/Slime_SK.Slime_SK
+[2023.02.25-11.02.05:543][464]FBXImport: FBX File Loading: Found name clash, node 'SlimeBody' was renamed to 'SlimeBody1' 
+[2023.02.25-11.02.05:543][464]FBXImport: FBX File Loading: Found name clash, node 'SlimeHand' was renamed to 'SlimeHand2' 
+[2023.02.25-11.02.05:543][464]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.25-11.02.06:183][495]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK.uasset'
+[2023.02.25-11.02.55:043][765]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/CustomGameInstance.uasset'
+[2023.02.25-11.02.58:338][ 47]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/IntroCutscene.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.uasset'
+[2023.02.25-11.02.59:439][173]LogEditorFactories: Performing atomic reimport of [C:/Users/aront/Desktop/CootsAnims/Slime/Slime_Intro_Anim.fbx]
+[2023.02.25-11.02.59:478][173]LogFbx: Loading FBX Scene from C:/Users/aront/Desktop/CootsAnims/Slime/Slime_Intro_Anim.fbx
+[2023.02.25-11.02.59:483][173]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.02.59:484][173]LogFbx: Parsing AnimStack Take 001
+[2023.02.25-11.02.59:489][173]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (SlimeRoot:0) 
+Source Global Transform (0.834075,-1.741966,0.000000|0.000000,-89.999992,0.000000|0.001194,0.001194,0.001194), 
+Converted Global Transform (83.407486,-174.196609,-0.000000|0.000000,-89.999985,0.000000|0.119396,0.119396,0.119396)
+[2023.02.25-11.02.59:511][173]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.Slime_Intro_Anim
+[2023.02.25-11.02.59:542][173]LogEditorFactories: -- imported successfully
+[2023.02.25-11.02.59:542][173]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Slime_SK_Skeleton.  Any animation on these bones will not be imported: 
+
+ SlimeBody  
+SlimeHand  
+ 
+[2023.02.25-11.02.59:542][173]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2023.02.25-11.03.15:863][501]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-11.03.15:870][501]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-11.03.19:097][790]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Core/Slime/Slime_SK.Slime_SK
+[2023.02.25-11.03.19:124][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.25-11.03.19:426][791]LogRenderer: Reallocating scene render targets to support 1144x884 Format 10 NumSamples 1 (Frame:1).
+[2023.02.25-11.04.48:067][ 35]LogEditorFactories: Performing atomic reimport of [C:/Users/aront/Desktop/CootsAnims/Slime/Slime_SK.fbx]
+[2023.02.25-11.04.48:156][ 35]LogFbx: Loading FBX Scene from C:/Users/aront/Desktop/CootsAnims/Slime/Slime_SK.fbx
+[2023.02.25-11.04.48:162][ 35]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.04.48:182][ 35]LogFbx: Valid bind pose for Pose (skinCluster1) - SlimeBody_geo
+[2023.02.25-11.04.48:182][ 35]LogFbx: Valid bind pose for Pose (skinCluster2) - SlimeBody_geo
+[2023.02.25-11.04.48:182][ 35]LogFbx: Triangulating skeletal mesh SlimeBody_geo
+[2023.02.25-11.04.48:183][ 35]LogFbx: Triangulating skeletal mesh SlimeHand_geo
+[2023.02.25-11.04.48:183][ 35]LogFbx: Warning: Bones digested - 3  Depth of hierarchy - 2
+[2023.02.25-11.04.48:184][ 35]LogSkeletalMesh: Section 0: Material=0, 8 triangles
+[2023.02.25-11.04.48:184][ 35]LogSkeletalMesh: Section 1: Material=1, 8 triangles
+[2023.02.25-11.04.48:188][ 35]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.Slime_Intro_Anim
+[2023.02.25-11.04.48:196][ 35]LogEditorFactories: -- imported successfully
+[2023.02.25-11.04.48:198][ 35]LogSkeletalMesh: Building Skeletal Mesh Slime_SK...
+[2023.02.25-11.04.48:210][ 35]LogSkeletalMesh: Section 0: Material=0, 8 triangles
+[2023.02.25-11.04.48:210][ 35]LogSkeletalMesh: Section 1: Material=1, 8 triangles
+[2023.02.25-11.04.48:225][ 35]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Core/Slime/Slime_SK.Slime_SK
+[2023.02.25-11.04.48:226][ 35]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.25-11.04.48:238][ 35]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.Slime_Intro_Anim
+[2023.02.25-11.04.48:863][ 63]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK_Skeleton.uasset'
+[2023.02.25-11.05.09:734][920]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/L_Master.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/L_Master_BuiltData.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/MainMenu.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/Metrics_Test.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/MovementTestLevel.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/TemplateLevel.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/TestLevel.umap'
+[2023.02.25-11.05.12:517][168]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_alpha.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_basecolor.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_Mat.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_SK.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_SK_PhysicsAsset.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_SK_Skeleton.uasset'
+[2023.02.25-11.05.14:933][370]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.uasset'
+[2023.02.25-11.05.15:413][423]LogEditorFactories: Performing atomic reimport of [C:/Users/aront/Desktop/CootsAnims/Slime/Slime_Intro_Anim.fbx]
+[2023.02.25-11.05.15:453][423]LogFbx: Loading FBX Scene from C:/Users/aront/Desktop/CootsAnims/Slime/Slime_Intro_Anim.fbx
+[2023.02.25-11.05.15:458][423]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.05.15:459][423]LogFbx: Parsing AnimStack Take 001
+[2023.02.25-11.05.15:468][423]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (SlimeRoot:0) 
+Source Global Transform (0.834075,-1.741966,0.000000|0.000000,-89.999992,0.000000|0.001194,0.001194,0.001194), 
+Converted Global Transform (83.407486,-174.196609,-0.000000|0.000000,-89.999985,0.000000|0.119396,0.119396,0.119396)
+[2023.02.25-11.05.15:472][423]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.Slime_Intro_Anim
+[2023.02.25-11.05.15:517][423]LogEditorFactories: -- imported successfully
+[2023.02.25-11.05.15:517][423]FBXImport: Error: Track SlimeHand has invalid transform(NaN). Zero scale transform can cause this issue. 
+[2023.02.25-11.05.15:517][423]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2023.02.25-11.05.15:566][423]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.Slime_Intro_Anim
+[2023.02.25-11.05.33:063][914]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-11.05.33:070][914]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-11.06.30:086][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2023.02.25-11.06.30:102][485]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu' took 0.223
+[2023.02.25-11.06.30:116][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Slime/Slime_SK_Skeleton] ([1] browsable assets)...
+[2023.02.25-11.06.30:116][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Slime/Slime_SK_Skeleton]
+[2023.02.25-11.06.30:116][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Slime/Slime_SK_Skeleton" FILE="E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Autosaves/Game/Core/Slime/Slime_SK_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.02.25-11.06.30:116][485]LogSavePackage: Moving 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Slime_SK_Skeleton_Auto1CF04790549ABCFE37D53ADBE8612655F.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Autosaves/Game/Core/Slime/Slime_SK_Skeleton_Auto1.uasset'
+[2023.02.25-11.06.30:117][485]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Core/Slime/Slime_SK] ([1] browsable assets)...
+[2023.02.25-11.06.30:125][485]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Core/Slime/Slime_SK.Slime_SK]
+[2023.02.25-11.06.30:125][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Slime/Slime_SK]
+[2023.02.25-11.06.30:125][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Slime/Slime_SK" FILE="E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Autosaves/Game/Core/Slime/Slime_SK_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.02.25-11.06.30:175][485]LogSavePackage: Moving 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Slime_SK_Auto1E17748DF4430F4312AAD51A850CC442A.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Autosaves/Game/Core/Slime/Slime_SK_Auto1.uasset'
+[2023.02.25-11.06.30:176][485]LogFileHelpers: Auto-saving content packages took 0.073
+[2023.02.25-11.12.30:739][641]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/CameraIntroSequence.uasset'
+[2023.02.25-11.12.30:739][641]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aront\Desktop\CootsAnims\CameraIntroSequence.fbx)
+[2023.02.25-11.12.30:745][641]LogFbx: Loading FBX Scene from C:\Users\aront\Desktop\CootsAnims\CameraIntroSequence.fbx
+[2023.02.25-11.12.30:749][641]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.12.30:750][641]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2023.02.25-11.12.33:644][641]LogSlate: Window 'Message' being destroyed
+[2023.02.25-11.12.33:650][641]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\aront\Desktop\CootsAnims\CameraIntroSequence.fbx'. Failed to create asset '/Game/Core/Cutscenes/IntroCutscene/CameraIntroSequence'.
+Please see Output Log for details.
+[2023.02.25-11.12.33:650][641]LogAssetTools: Warning: Failed to import 'C:\Users\aront\Desktop\CootsAnims\CameraIntroSequence.fbx'. Failed to create asset '/Game/Core/Cutscenes/IntroCutscene/CameraIntroSequence'.
+Please see Output Log for details.
+[2023.02.25-11.12.36:413][853]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-11.12.36:420][853]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-11.14.41:969][ 13]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/CameraIntroSequence.uasset'
+[2023.02.25-11.14.41:969][ 13]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aront\Desktop\CootsAnims\CameraIntroSequence.fbx)
+[2023.02.25-11.14.41:975][ 13]LogFbx: Loading FBX Scene from C:\Users\aront\Desktop\CootsAnims\CameraIntroSequence.fbx
+[2023.02.25-11.14.41:979][ 13]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.14.41:981][ 13]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2023.02.25-11.14.44:071][ 13]LogSlate: Window 'Message' being destroyed
+[2023.02.25-11.14.44:077][ 13]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\aront\Desktop\CootsAnims\CameraIntroSequence.fbx'. Failed to create asset '/Game/Core/Cutscenes/IntroCutscene/CameraIntroSequence'.
+Please see Output Log for details.
+[2023.02.25-11.14.44:077][ 13]LogAssetTools: Warning: Failed to import 'C:\Users\aront\Desktop\CootsAnims\CameraIntroSequence.fbx'. Failed to create asset '/Game/Core/Cutscenes/IntroCutscene/CameraIntroSequence'.
+Please see Output Log for details.
+[2023.02.25-11.15.58:335][319]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-11.15.58:339][319]LogSlate: Window 'Message Log' being destroyed
+[2023.02.25-11.16.29:290][905]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/IntroCutscene.uasset'
+[2023.02.25-11.16.37:175][436]LogSlate: Window 'Save Asset As' being destroyed
+[2023.02.25-11.16.37:913][436]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/shots/shot0010/shot0010_01.uasset'
+[2023.02.25-11.16.38:511][489]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/shots/shot0010/shot0010_01.uasset'
+[2023.02.25-11.16.59:033][317]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.25-11.17.43:252][693]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Anims/Ludwig_MainMenu_Anim.uasset'
+[2023.02.25-11.19.49:038][265]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/ReimportCache/3688439234.bin', retrying in .5s...
+[2023.02.25-11.19.49:540][265]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/ReimportCache/3688439234.bin'.
+[2023.02.25-11.20.32:827][798]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Gamemode_Coots.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/M_Visararn.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/MainMenuPlayer.uasset'
+[2023.02.25-11.20.34:267][880]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Coots_sk.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Coots_sk_PhysicsAsset.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Coots_sk_Skeleton.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/lambert2.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/lkjasdlkjas.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Player_Coots.uasset'
+[2023.02.25-11.20.38:827][199]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_alpha.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_basecolor.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_Mat.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_SK.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_SK_PhysicsAsset.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Ludwig/Ludwig_SK_Skeleton.uasset'
+[2023.02.25-11.21.06:995][986]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_AnimBp.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Dash_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Death_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Death_AnimMontage.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallDown_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Falling_BS1D.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallNeutral_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallUp_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Idle_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Jump_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Landing_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_MainMenu_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Walk_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_WallHangNeutral_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_WallHangUp_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/OutlineMat.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/WallHangBS1D.uasset'
+[2023.02.25-11.21.19:687][645]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.uasset'
+[2023.02.25-11.21.43:894][873]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.uasset'
+[2023.02.25-11.21.43:894][873]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\aront\Desktop\CootsAnims\FBX\Coots_Intro_Anim.fbx)
+[2023.02.25-11.21.43:901][873]LogFbx: Loading FBX Scene from C:\Users\aront\Desktop\CootsAnims\FBX\Coots_Intro_Anim.fbx
+[2023.02.25-11.21.43:912][873]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.21.46:606][873]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(0) root
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(1) hip
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(2) l_thigh
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(3) l_foot
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(4) l_footEnd
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(5) r_thigh
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(6) r_foot
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(7) r_footEnd
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(8) r_shoulder
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(9) r_hand
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(10) r_handEnd
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(11) c_neck
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(12) c_head
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(13) c_headEnd
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(14) r_ear
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(15) r_earEnd
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(16) l_ear
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(17) l_earEnd
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(18) l_shoulder
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(19) l_hand
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(20) l_handEnd
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(21) c_tail
+[2023.02.25-11.21.46:618][873]LogFbx: SortedLinks :(22) c_tailEnd
+[2023.02.25-11.21.46:620][873]LogFbx: Parsing AnimStack Take 001
+[2023.02.25-11.21.46:749][873]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.21.46:749][873]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.21.47:350][904]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.uasset'
+[2023.02.25-11.23.40:641][ 17]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Body_Alpha.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Body_Basecolor.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Hand_Alpha.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_Hand_Basecolor.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK_PhysicsAsset.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK_Skeleton.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/SlimeBody_Mat.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/SlimeHand_Mat.uasset'
+[2023.02.25-11.23.50:118][647]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/IntroCutscene.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Ludwig_Intro_Anim.uasset'
+[2023.02.25-11.25.00:499][629]LogEditorFactories: Performing atomic reimport of [C:/Users/aront/Desktop/CootsAnims/Slime/Slime_SK.fbx]
+[2023.02.25-11.25.00:540][629]LogFbx: Loading FBX Scene from C:/Users/aront/Desktop/CootsAnims/Slime/Slime_SK.fbx
+[2023.02.25-11.25.00:544][629]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.25.00:557][629]LogFbx: Valid bind pose for Pose (skinCluster1) - SlimeBody_geo
+[2023.02.25-11.25.00:557][629]LogFbx: Valid bind pose for Pose (skinCluster2) - SlimeBody_geo
+[2023.02.25-11.25.00:557][629]LogFbx: Triangulating skeletal mesh SlimeBody_geo
+[2023.02.25-11.25.00:558][629]LogFbx: Triangulating skeletal mesh SlimeHand_geo
+[2023.02.25-11.25.00:558][629]LogFbx: Warning: Bones digested - 3  Depth of hierarchy - 2
+[2023.02.25-11.25.00:559][629]LogSkeletalMesh: Section 0: Material=0, 8 triangles
+[2023.02.25-11.25.00:559][629]LogSkeletalMesh: Section 1: Material=1, 8 triangles
+[2023.02.25-11.25.00:566][629]LogEditorFactories: -- imported successfully
+[2023.02.25-11.25.00:568][629]LogSkeletalMesh: Building Skeletal Mesh Slime_SK...
+[2023.02.25-11.25.00:585][629]LogSkeletalMesh: Section 0: Material=0, 8 triangles
+[2023.02.25-11.25.00:585][629]LogSkeletalMesh: Section 1: Material=1, 8 triangles
+[2023.02.25-11.25.00:592][629]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Core/Slime/Slime_SK.Slime_SK
+[2023.02.25-11.25.00:593][629]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.25-11.25.04:565][789]LogEditorFactories: Performing atomic reimport of [C:/Users/aront/Desktop/CootsAnims/Slime/Slime_SK.fbx]
+[2023.02.25-11.25.04:614][789]LogFbx: Loading FBX Scene from C:/Users/aront/Desktop/CootsAnims/Slime/Slime_SK.fbx
+[2023.02.25-11.25.04:620][789]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.25.04:642][789]LogFbx: Valid bind pose for Pose (skinCluster1) - SlimeBody_geo
+[2023.02.25-11.25.04:642][789]LogFbx: Valid bind pose for Pose (skinCluster2) - SlimeBody_geo
+[2023.02.25-11.25.04:642][789]LogFbx: Triangulating skeletal mesh SlimeBody_geo
+[2023.02.25-11.25.04:642][789]LogFbx: Triangulating skeletal mesh SlimeHand_geo
+[2023.02.25-11.25.04:643][789]LogFbx: Warning: Bones digested - 3  Depth of hierarchy - 2
+[2023.02.25-11.25.04:643][789]LogSkeletalMesh: Section 0: Material=0, 8 triangles
+[2023.02.25-11.25.04:643][789]LogSkeletalMesh: Section 1: Material=1, 8 triangles
+[2023.02.25-11.25.04:656][789]LogEditorFactories: -- imported successfully
+[2023.02.25-11.25.04:658][789]LogSkeletalMesh: Building Skeletal Mesh Slime_SK...
+[2023.02.25-11.25.04:677][789]LogSkeletalMesh: Section 0: Material=0, 8 triangles
+[2023.02.25-11.25.04:677][789]LogSkeletalMesh: Section 1: Material=1, 8 triangles
+[2023.02.25-11.25.04:690][789]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Core/Slime/Slime_SK.Slime_SK
+[2023.02.25-11.25.04:691][789]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.25-11.25.10:687][215]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.25.10:687][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.25.14:106][392]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK.uasset'
+[2023.02.25-11.25.15:291][392]LogSlate: Window 'Check Out Assets' being destroyed
+[2023.02.25-11.25.16:883][392]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK.uasset'
+[2023.02.25-11.25.16:883][392]LogSourceControl: Attempting 'p4 edit E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK.uasset'
+[2023.02.25-11.25.16:906][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Slime/Slime_SK" FILE="E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK.uasset" SILENT=true
+[2023.02.25-11.25.16:911][392]LogSavePackage: Moving 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Slime_SK8E67592141E1E534491587B013B430AC.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK.uasset'
+[2023.02.25-11.25.16:926][392]AssetCheck: New page: Asset Save: Slime_SK
+[2023.02.25-11.25.16:926][392]LogContentValidation: Display: Validating SkeletalMesh /Game/Core/Slime/Slime_SK.Slime_SK
+[2023.02.25-11.25.17:350][425]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Core/Slime/Slime_SK.Slime_SK
+[2023.02.25-11.25.17:352][425]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.25-11.25.25:260][959]LogSlate: Window 'Message' being destroyed
+[2023.02.25-11.25.25:269][959]Message dialog closed, result: Yes, title: Message, text: This action can't be undone. Would you like to continue?
+[2023.02.25-11.25.25:281][959]LogSkeletalMesh: Building Skeletal Mesh Slime_SK...
+[2023.02.25-11.25.25:298][959]LogSkeletalMesh: Section 0: Material=0, 8 triangles
+[2023.02.25-11.25.25:298][959]LogSkeletalMesh: Section 1: Material=1, 8 triangles
+[2023.02.25-11.25.25:304][959]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Core/Slime/Slime_SK.Slime_SK
+[2023.02.25-11.25.25:919][  5]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Slime/Slime_SK.uasset'
+[2023.02.25-11.25.31:736][375]LogSourceControl: Attempting 'p4 fstat -Or D:/Epic Games/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset D:/Epic Games/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1BoxCenterAligned.uasset D:/Epic Games/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset D:/Epic Games/UE_4.26/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset D:/Epic Games/UE_4.26/Engine/Content/EditorMeshes/ArcadeEditorSphere.uasset D:/Epic Games/UE_4.26/Engine/Content/EditorMeshes/Axis_Guide.uasset D:/Epic Games/UE_4.26/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset D:/Epic Games/UE_4.26/Engine/Content/EngineMeshes/BackgroundCube.uasset D:/Epic Games/UE_4.26/Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset D:/Epic Games/UE_4.26/Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Breaking_Platform/Breakable_platform_Stone01.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Breaking_Platform/Breakable_platform_Stone02.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Breaking_Platform/Breakable_platform_Stone03.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Breaking_Platform/Breakable_platform_Stone04.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Breaking_Platform/Breakable_platform_Stone05.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Breaking_Platform/Breakable_platform_Stone06.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Breaking_Platform/Breakable_platform_Stone07.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Breaking_Platform/Breakable_platform_Stone08.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Breaking_Platform/Breakable_platform_Stone09.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Breaking_Platform/Breakable_platform_Stone10.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/CarsBed/CarsBed.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Meshes/Cloud/Cloud.uasset D:/Epic Games/UE_4.26/Engine/Content/BasicShapes/Cone.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_solid.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset'
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1BoxCenterAligned.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/EditorMeshes/ArcadeEditorSphere.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/EditorMeshes/Axis_Guide.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/EngineMeshes/BackgroundCube.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Content/BasicShapes/Cone.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_solid.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.32:016][375]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.25-11.25.56:209][286]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Core/Slime/Slime_SK_Skeleton.Slime_SK_Skeleton
+[2023.02.25-11.25.56:227][286]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.25-11.26.45:909][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.02.25-11.26.45:919][981]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu' took 0.143
+[2023.02.25-11.26.45:919][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Cutscenes/IntroCutscene/IntroCutscene] ([1] browsable assets)...
+[2023.02.25-11.26.45:919][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Cutscenes/IntroCutscene/IntroCutscene]
+[2023.02.25-11.26.45:920][981]LogSavePackage: Moving 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/IntroCutscene_Auto2FB2E47974405A6F4D25B5AB242DB4221.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Autosaves/Game/Core/Cutscenes/IntroCutscene/IntroCutscene_Auto2.uasset'
+[2023.02.25-11.26.45:920][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Core/Slime/Slime_SK] ([1] browsable assets)...
+[2023.02.25-11.26.45:926][981]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Core/Slime/Slime_SK.Slime_SK]
+[2023.02.25-11.26.45:926][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Slime/Slime_SK]
+[2023.02.25-11.26.45:926][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Slime/Slime_SK" FILE="E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Autosaves/Game/Core/Slime/Slime_SK_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.25-11.26.45:930][981]LogSavePackage: Moving 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Slime_SK_Auto26C974B0E4A9A0DEDA9D71392DFB6EAB2.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Autosaves/Game/Core/Slime/Slime_SK_Auto2.uasset'
+[2023.02.25-11.26.45:930][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Cutscenes/IntroCutscene/shots/shot0010/shot0010_01] ([1] browsable assets)...
+[2023.02.25-11.26.45:930][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Cutscenes/IntroCutscene/shots/shot0010/shot0010_01]
+[2023.02.25-11.26.45:934][981]LogSavePackage: Moving 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/shot0010_01_Auto29BDA719143DCCEE39C72BFB9757E895B.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Autosaves/Game/Core/Cutscenes/IntroCutscene/shots/shot0010/shot0010_01_Auto2.uasset'
+[2023.02.25-11.26.45:934][981]LogFileHelpers: Auto-saving content packages took 0.017
+[2023.02.25-11.27.27:285][414]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Gamemode_Coots.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/M_Visararn.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/MainMenuPlayer.uasset'
+[2023.02.25-11.27.29:769][648]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.27.29:771][648]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.25-11.27.30:040][648]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.02.25-11.27.30:685][696]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.uasset'
+[2023.02.25-11.27.31:538][757]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Dash_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Death_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Death_AnimMontage.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallDown_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Falling_BS1D.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallNeutral_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallUp_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Idle_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Jump_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Landing_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_MainMenu_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Walk_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_WallHangNeutral_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_WallHangUp_Anim.uasset'
+[2023.02.25-11.30.36:467][615]LogEditorFactories: Performing atomic reimport of [C:/Users/aront/Desktop/CootsAnims/FBX/Coots_Intro_Anim.fbx]
+[2023.02.25-11.30.36:502][615]LogFbx: Loading FBX Scene from C:/Users/aront/Desktop/CootsAnims/FBX/Coots_Intro_Anim.fbx
+[2023.02.25-11.30.36:514][615]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.30.36:518][615]LogFbx: Parsing AnimStack Take 001
+[2023.02.25-11.30.36:688][615]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.30.36:694][615]LogEditorFactories: -- imported successfully
+[2023.02.25-11.30.36:698][615]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.31.12:167][855]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.31.12:167][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.31.12:198][855]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.31.12:198][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.31.12:248][855]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.31.12:249][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.31.14:331][994]LogEditorFactories: Performing atomic reimport of [C:/Users/aront/Desktop/CootsAnims/FBX/Coots_Intro_Anim.fbx]
+[2023.02.25-11.31.14:355][994]LogFbx: Loading FBX Scene from C:/Users/aront/Desktop/CootsAnims/FBX/Coots_Intro_Anim.fbx
+[2023.02.25-11.31.14:366][994]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.31.14:369][994]LogFbx: Parsing AnimStack Take 001
+[2023.02.25-11.31.14:539][994]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.31.14:546][994]LogEditorFactories: -- imported successfully
+[2023.02.25-11.31.15:467][ 36]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.31.15:487][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.25-11.31.15:755][ 36]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.02.25-11.34.42:386][171]LogSlate: Window 'Coots_Intro_Anim' being destroyed
+[2023.02.25-11.34.42:391][171]LogSlate: Window 'Coots_Intro_Anim' being destroyed
+[2023.02.25-11.34.42:392][171]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:392][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.42:409][171]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:409][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.42:450][171]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:450][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.42:461][171]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:461][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.42:475][171]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:475][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.42:512][171]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:512][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.42:524][171]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:524][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.42:564][171]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:564][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.42:606][171]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:606][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.42:617][171]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:617][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.42:655][171]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.34.42:655][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.34.44:551][317]LogEditorFactories: Performing atomic reimport of [C:/Users/aront/Desktop/CootsAnims/FBX/Coots_Intro_Anim.fbx]
+[2023.02.25-11.34.44:571][317]LogFbx: Loading FBX Scene from C:/Users/aront/Desktop/CootsAnims/FBX/Coots_Intro_Anim.fbx
+[2023.02.25-11.34.44:582][317]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.34.44:585][317]LogFbx: Parsing AnimStack Take 001
+[2023.02.25-11.34.44:753][317]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.34.44:759][317]LogEditorFactories: -- imported successfully
+[2023.02.25-11.34.45:536][354]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.34.45:557][354]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.25-11.34.45:854][354]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.02.25-11.34.47:358][457]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Dash_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Death_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Death_AnimMontage.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallDown_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Falling_BS1D.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallNeutral_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallUp_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Idle_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Jump_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Landing_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_MainMenu_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Walk_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_WallHangNeutral_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_WallHangUp_Anim.uasset'
+[2023.02.25-11.36.46:362][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.02.25-11.36.46:375][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu' took 0.048
+[2023.02.25-11.36.46:375][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Cutscenes/IntroCutscene/shots/shot0010/shot0010_01] ([1] browsable assets)...
+[2023.02.25-11.36.46:375][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Cutscenes/IntroCutscene/shots/shot0010/shot0010_01]
+[2023.02.25-11.36.46:378][292]LogSavePackage: Moving 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/shot0010_01_Auto3800A4EC74D0A98030E1F708A49E0483D.tmp' to 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Autosaves/Game/Core/Cutscenes/IntroCutscene/shots/shot0010/shot0010_01_Auto3.uasset'
+[2023.02.25-11.36.46:379][292]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.02.25-11.39.07:639][789]LogEditorFactories: Performing atomic reimport of [C:/Users/aront/Desktop/CootsAnims/FBX/Coots_Intro_Anim.fbx]
+[2023.02.25-11.39.07:676][789]LogFbx: Loading FBX Scene from C:/Users/aront/Desktop/CootsAnims/FBX/Coots_Intro_Anim.fbx
+[2023.02.25-11.39.07:688][789]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.25-11.39.07:691][789]LogFbx: Parsing AnimStack Take 001
+[2023.02.25-11.39.07:856][789]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.39.07:863][789]LogEditorFactories: -- imported successfully
+[2023.02.25-11.39.08:949][848]LogSlate: Window 'Coots_Intro_Anim' being destroyed
+[2023.02.25-11.39.08:956][848]LogSlate: Window 'Coots_Intro_Anim' being destroyed
+[2023.02.25-11.39.08:956][848]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.39.08:956][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.39.08:969][848]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.39.08:969][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.39.09:011][848]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.02.25-11.39.09:011][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.25-11.39.09:576][889]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.Coots_Intro_Anim
+[2023.02.25-11.39.09:596][889]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.25-11.39.09:901][889]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.02.25-11.39.47:102][308]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/MainMenu.umap'
+[2023.02.25-11.39.47:943][316]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Player_Coots.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Slime_Intro_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Levels/MainMenu.umap E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Cutscenes/IntroCutscene/Coots_Intro_Anim.uasset'
+[2023.02.25-11.40.34:536][316]LogSlate: Window 'Check Out Assets' being destroyed
+[2023.02.25-11.41.15:977][685]Cmd: TRANSACTION UNDO
+[2023.02.25-11.41.15:977][685]LogEditorTransaction: Undo Set Key Value
+[2023.02.25-11.41.16:057][685]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.25-11.41.25:889][623]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.25-11.41.30:635][ 78]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.25-11.41.37:214][719]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.25-11.41.44:868][467]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.25-11.42.06:810][693]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Coots Sk2)
+[2023.02.25-11.42.08:779][893]Cmd: DELETE
+[2023.02.25-11.42.08:788][893]Cmd: ACTOR DELETE
+[2023.02.25-11.42.09:090][893]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.02.25-11.42.09:121][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.25-11.42.09:129][893]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2023.02.25-11.42.14:302][432]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.25-11.43.55:237][645]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Ludwig_MainMenu_Anim)
+[2023.02.25-11.44.10:131][146]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Dash_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Death_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallDown_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallNeutral_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_FallUp_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Idle_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Jump_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Landing_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_MainMenu_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_Walk_Anim.uasset E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Player/Anims/Coots_WallHangNeutral_Anim.uasset'
+[2023.02.25-11.44.26:108][711]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.25-11.44.43:952][469]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.25-11.45.27:340][626]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.25-11.46.01:417][844]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Ludwig_MainMenu_Anim)
+[2023.02.25-11.46.11:226][801]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Ludwig_MainMenu_Anim)
+[2023.02.25-11.46.14:809][216]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Coots_MainMenu_Anim)
+[2023.02.25-11.46.37:638][850]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2023.02.25-11.46.39:921][851]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.270 s
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: === Handled ensure: ===
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: 
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: Stack: 
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa2b98b756 UE4Editor-Core.dll!DispatchCheckVerify<bool,<lambda_59e3bb5bf2053df82a1e27e2545c92cd> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa2b2cc5fe UE4Editor-Core.dll!FMatrix::ErrorEnsure() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\Matrix.cpp:8]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa2817d64b UE4Editor-Engine.dll!FMatrix::InverseFast() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Math\Matrix.inl:281]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa29196d04 UE4Editor-Engine.dll!FSkeletalMeshSceneProxy::GetWorldMatrices() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\SkeletalMesh.cpp:5541]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa2917089f UE4Editor-Engine.dll!FSkeletalMeshSceneProxy::DebugDrawPhysicsAsset() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\SkeletalMesh.cpp:5609]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa2918f7be UE4Editor-Engine.dll!FSkeletalMeshSceneProxy::GetMeshElementsConditionallySelectable() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\SkeletalMesh.cpp:5190]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa2918d4f8 UE4Editor-Engine.dll!FSkeletalMeshSceneProxy::GetDynamicMeshElements() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\SkeletalMesh.cpp:5118]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa1e2f864f UE4Editor-Renderer.dll!FSceneRenderer::GatherDynamicMeshElements() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\SceneVisibility.cpp:2908]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa1e2e9ab8 UE4Editor-Renderer.dll!FSceneRenderer::ComputeViewVisibility() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\SceneVisibility.cpp:4043]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa1e2fcf09 UE4Editor-Renderer.dll!FDeferredShadingSceneRenderer::InitViews() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\SceneVisibility.cpp:4304]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa1dcb5bad UE4Editor-Renderer.dll!FDeferredShadingSceneRenderer::Render() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\DeferredShadingRenderer.cpp:1413]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa1e2a4f13 UE4Editor-Renderer.dll!RenderViewFamily_RenderThread() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:3619]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa1e27918f UE4Editor-Renderer.dll!<lambda_ead3a0042dfdf5af6dd902d9545231b0>::operator()() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:3889]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa1e28e73d UE4Editor-Renderer.dll!TEnqueueUniqueRenderCommandType<`FRendererModule::BeginRenderingViewFamily'::`35'::FDrawSceneCommandName,<lambda_ead3a0042dfdf5af6dd902d9545231b0> >::DoTask() [D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h:183]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa1e292427 UE4Editor-Renderer.dll!TGraphTask<TEnqueueUniqueRenderCommandType<`FRendererModule::BeginRenderingViewFamily'::`35'::FDrawSceneCommandName,<lambda_ead3a0042dfdf5af6dd902d9545231b0> > >::ExecuteTask() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Async\TaskGraphInterfaces.h:886]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa2b12ecdc UE4Editor-Core.dll!FNamedTaskThread::ProcessTasksNamedThread() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:709]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa2b12f0ce UE4Editor-Core.dll!FNamedTaskThread::ProcessTasksUntilQuit() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:601]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa27b9a5c2 UE4Editor-RenderCore.dll!RenderingThreadMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp:373]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa27ba2c94 UE4Editor-RenderCore.dll!FRenderingThread::Run() [D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp:509]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa2b68898b UE4Editor-Core.dll!FRunnableThreadWin::Run() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:86]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffa2b681620 UE4Editor-Core.dll!FRunnableThreadWin::GuardedRun() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:35]
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffbadc87614 KERNEL32.DLL!UnknownFunction []
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: [Callstack] 0x00007ffbaed026a1 ntdll.dll!UnknownFunction []
+[2023.02.25-11.46.39:921][851]LogOutputDevice: Error: 
+[2023.02.25-11.46.39:921][851]LogStats:                SubmitErrorReport -  0.000 s

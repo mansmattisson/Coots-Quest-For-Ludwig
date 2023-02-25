@@ -1,0 +1,1120 @@
+﻿Log file open, 02/21/23 20:46:22
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Coots_Gamejam
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.265511
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ElectronicNodes
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/aront/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.21-19.46.23:591][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.21-19.46.23:591][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.21-19.46.23:591][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.21-19.46.23:619][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.21-19.46.23:619][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.21-19.46.23:620][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.21-19.46.23:620][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.21-19.46.23:620][  0]LogHAL: Display: Platform has ~ 32 GB [34196537344 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.21-19.46.23:620][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.21-19.46.23:620][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.21-19.46.23:620][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Scalability.ini]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.21-19.46.23:621][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Engine.ini]
+[2023.02.21-19.46.23:621][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Config/Windows/Editor.ini]
+[2023.02.21-19.46.23:621][  0]LogInit: Computer: DESKTOP-LP1QBOO
+[2023.02.21-19.46.23:621][  0]LogInit: User: aront
+[2023.02.21-19.46.23:621][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.02.21-19.46.23:621][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.21-19.46.23:621][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.02.21-19.46.23:622][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.21-19.46.23:622][  0]LogMemory: Process Physical Memory: 142.19 MB used, 142.20 MB peak
+[2023.02.21-19.46.23:622][  0]LogMemory: Process Virtual Memory: 129.27 MB used, 129.27 MB peak
+[2023.02.21-19.46.23:622][  0]LogMemory: Physical Memory: 16974.40 MB used,  15637.96 MB free, 32612.36 MB total
+[2023.02.21-19.46.23:622][  0]LogMemory: Virtual Memory: 134204256.00 MB used,  13470.26 MB free, 134217728.00 MB total
+[2023.02.21-19.46.23:627][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.21-19.46.23:658][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.21-19.46.23:659][  0]LogInit: Using OS detected language (sv-SE).
+[2023.02.21-19.46.23:659][  0]LogInit: Using OS detected locale (sv-SE).
+[2023.02.21-19.46.23:660][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2023.02.21-19.46.23:803][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.21-19.46.23:813][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.21-19.46.23:837][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.21-19.46.23:837][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.21-19.46.24:016][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.02.21-19.46.24:016][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.21-19.46.24:016][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.21-19.46.24:016][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.21-19.46.24:126][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2023.02.21-19.46.24:126][  0]LogD3D11RHI:       11041/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2023.02.21-19.46.24:163][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2023.02.21-19.46.24:163][  0]LogD3D11RHI:       128/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.02.21-19.46.24:165][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.21-19.46.24:165][  0]LogD3D11RHI:       0/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.21-19.46.24:240][  0]LogD3D11RHI:    3. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2023.02.21-19.46.24:240][  0]LogD3D11RHI:       11041/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2023.02.21-19.46.24:310][  0]LogD3D11RHI:    4. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2023.02.21-19.46.24:310][  0]LogD3D11RHI:       11041/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2023.02.21-19.46.24:310][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.02.21-19.46.24:331][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.21-19.46.24:331][  0]LogD3D11RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.21-19.46.24:331][  0]LogWindows: EnumDisplayDevices:
+[2023.02.21-19.46.24:331][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2023.02.21-19.46.24:331][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2023.02.21-19.46.24:332][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2023.02.21-19.46.24:332][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2023.02.21-19.46.24:332][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.02.21-19.46.24:333][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.02.21-19.46.24:333][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.02.21-19.46.24:333][  0]LogWindows:    7. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:333][  0]LogWindows:    8. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:334][  0]LogWindows:    9. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:334][  0]LogWindows:    10. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:334][  0]LogWindows:    11. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:334][  0]LogWindows:    12. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:334][  0]LogWindows:    13. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:334][  0]LogWindows:    14. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:335][  0]LogWindows:    15. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:335][  0]LogWindows:    16. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:335][  0]LogWindows:    17. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:335][  0]LogWindows:    18. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:335][  0]LogWindows:    19. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:335][  0]LogWindows:    20. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:335][  0]LogWindows:    21. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:336][  0]LogWindows:    22. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:336][  0]LogWindows:    23. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:336][  0]LogWindows:    24. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:336][  0]LogWindows:    25. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:336][  0]LogWindows:    26. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:336][  0]LogWindows:    27. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:336][  0]LogWindows:    28. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:337][  0]LogWindows:    29. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:337][  0]LogWindows:    30. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:337][  0]LogWindows:    31. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:337][  0]LogWindows:    32. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:337][  0]LogWindows:    33. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:337][  0]LogWindows:    34. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:337][  0]LogWindows:    35. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:338][  0]LogWindows:    36. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:338][  0]LogWindows:    37. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:338][  0]LogWindows:    38. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2023.02.21-19.46.24:338][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.02.21-19.46.24:338][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2023.02.21-19.46.24:338][  0]LogD3D11RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2023.02.21-19.46.24:338][  0]LogD3D11RHI:      Driver Date: 12-5-2022
+[2023.02.21-19.46.24:338][  0]LogRHI: Texture pool is 7728 MB (70% of 11041 MB)
+[2023.02.21-19.46.24:415][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.21-19.46.24:415][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.21-19.46.24:415][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.21-19.46.24:419][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2023.02.21-19.46.24:444][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.02.21-19.46.24:445][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.02.21-19.46.24:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.21-19.46.24:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.21-19.46.24:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.21-19.46.24:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.21-19.46.24:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.21-19.46.24:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.21-19.46.24:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.21-19.46.24:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.21-19.46.24:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.21-19.46.24:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.21-19.46.24:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.21-19.46.24:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.21-19.46.24:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.21-19.46.24:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.21-19.46.24:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.21-19.46.24:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.21-19.46.24:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.21-19.46.24:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.21-19.46.24:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.21-19.46.24:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.21-19.46.24:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.21-19.46.24:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.21-19.46.24:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.21-19.46.24:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.21-19.46.24:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.21-19.46.24:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.21-19.46.24:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.21-19.46.24:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.21-19.46.24:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.21-19.46.24:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.21-19.46.24:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.21-19.46.24:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.21-19.46.24:941][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.21-19.46.24:947][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.21-19.46.24:998][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.21-19.46.24:998][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/Shaders/WorkingDirectory/17352/).
+[2023.02.21-19.46.24:998][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aront/AppData/Local/Temp/UnrealShaderWorkingDir/136ABB0E4824139352877F8B63EDCFFD/'.
+[2023.02.21-19.46.24:998][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.21-19.46.24:998][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.21-19.46.25:615][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.21-19.46.25:658][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/aront/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.02.21-19.46.25:658][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aront/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2023.02.21-19.46.25:658][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/P4GalacticMayhem/Coots/Coots_Gamejam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.21-19.46.25:658][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.21-19.46.25:658][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/P4GalacticMayhem/Coots/Coots_Gamejam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.21-19.46.25:658][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.21-19.46.25:668][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.21-19.46.25:668][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.21-19.46.25:668][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.21-19.46.25:672][  0]LogDerivedDataCache: Speed tests for C:/Users/aront/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.02.21-19.46.25:672][  0]LogDerivedDataCache: Display: Performance to C:/Users/aront/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1604.85MBs, RandomWriteSpeed=234.88MBs. Assigned SpeedClass 'Local'
+[2023.02.21-19.46.25:673][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aront/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.21-19.46.25:673][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.21-19.46.25:673][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.21-19.46.25:711][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.21-19.46.25:711][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.21-19.46.25:730][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2023.02.21-19.46.25:908][  0]LogAssetRegistry: Error: Package E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Material/TutCelShaderInnerOutline.uasset has newer custom version of Dev-Rendering
+[2023.02.21-19.46.25:908][  0]LogAssetRegistry: Error: Package E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Material/TutCelShader.uasset has newer custom version of Dev-Rendering
+[2023.02.21-19.46.25:908][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.21-19.46.25:908][  0]LogInit: Active device profile: [000001C917931F00][000001C9779C5780 49] Windows
+[2023.02.21-19.46.25:908][  0]LogInit: Profiles: [000001C917931F00][000001C9779C5780 49] Windows, [000001C9178F6300][000001C9779C98C0 49] WindowsNoEditor, [000001C917933A00][000001C9779CDA00 49] WindowsServer, [000001C9178F4800][000001C9779D5B80 49] WindowsClient, [000001C917930900][000001C9779D9D00 49] IOS, [000001C9178F7B00][000001C9779DC1C0 49] iPadAir, [000001C917931600][000001C9779E0340 49] iPadAir2, [000001C9178B3600][000001C916A62600 49] IPadPro, [000001C9178B3700][000001C916A5E640 49] iPadAir3, [000001C917931300][000001C916A667C0 49] iPadAir4, [000001C9178B3800][000001C916A6A940 49] iPadMini2, [000001C917932300][000001C916A6EAC0 49] iPadMini3, [000001C9178B2500][000001C916A72C40 49] iPadMini4, [000001C917933D00][000001C916A76DC0 49] iPadMini5, [000001C9178D6E00][000001C916A7F080 49] iPhone6, [000001C9178D6F00][000001C916A7B0C0 49] iPodTouch6, [000001C9178B3F00][000001C916A87380 49] iPhone7, [000001C9178B3500][000001C916A833C0 49] iPodTouch7, [000001C9178D6700][000001C916A8B540 49] iPhone5S, [000001C9178B3400][000001C9779D1680 49] iPhone6Plus, [000001C9178D7E00][000001C916A8F7C0 49] iPhone6S, [000001C9178B1000][000001C916A93900 49] iPhone6SPlus, [000001C9178D6900][000001C916A97A40 49] iPhone7Plus, [000001C9178B2800][000001C916A9FBC0 49] iPhoneSE, [000001C9178D6800][000001C916AA3D40 49] iPhone8, [000001C9178B1400][000001C916AA6200 49] iPhone8Plus, [000001C9178D5F00][000001C916AAA380 49] iPhoneX, [000001C9178B1B00][000001C916AAE500 49] iPhoneXS, [000001C9178D4600][000001C916AB2680 49] iPhoneXSMax, [000001C9178B0200][000001C916AB6800 49] iPhoneXR, [000001C9178D7400][000001C916ABA980 49] iPhone11, [000001C9178B3300][000001C916ABEB00 49] iPhone11Pro, [000001C9178D4700][000001C916AC2C80 49] iPhone11ProMax, [000001C9178B0800][000001C916AC6E00 49] iPhoneSE2, [000001C9178D5C00][000001C916ACAF80 49] iPhone12Mini, [000001C9178B1D00][000001C917C77100 49] iPhone12, [000001C9178D5600][000001C917C7B280 49] iPhone12Pro, [000001C9178B3100][000001C917C7F400 49] iPhone12ProMax, [000001C9178D6400][000001C917C83580 49] iPadPro105, [000001C9178B3B00][000001C917C87700 49] iPadPro129, [000001C9178D7C00][000001C916A9B840 49] iPadPro97, [000001C9178B1900][000001C917C8B980 49] iPadPro2_129, [000001C9178F5300][000001C917C8FAC0 49] iPad5, [000001C9178D7700][000001C917C9BC40 49] iPad6, [000001C9178F5E00][000001C917CFE100 49] iPad7, [000001C9178D4B00][000001C917D96280 49] iPad8, [000001C9178F6900][000001C917DAA400 49] iPadPro11, [000001C9178D6B00][000001C917DB4580 49] iPadPro2_11, [000001C9178F6600][000001C917DCA700 49] iPadPro3_129, [000001C9178D6000][000001C917DCE880 49] iPadPro4_129, [000001C9178F5D00][000001C917DD2A00 49] AppleTV, [000001C9178D5B00][000001C917DDAB80 49] AppleTV4K, [000001C9178F4400][000001C917EC8D00 49] TVOS, [000001C9178D4800][000001C917FF4E80 49] Mac, [000001C9178B0D00][000001C918009000 49] MacClient, [000001C9178F6200][000001C918011180 49] MacNoEditor, [000001C9178B2600][000001C918015300 49] MacServer, [000001C9178D4500][000001C918057480 49] Linux, [000001C9178B1200][000001C918103600 49] LinuxAArch64, [000001C9178D6200][000001C91810B780 49] LinuxNoEditor, [000001C9178B1500][000001C917C978C0 49] LinuxAArch64NoEditor, [000001C9178D5500][000001C918147A00 49] LinuxClient, [000001C9178B3200][000001C91815FB40 49] LinuxAArch64Client, [000001C9178D5D00][000001C918167CC0 49] LinuxServer, [000001C9178B2200][000001C91817C180 49] LinuxAArch64Server, [000001C9178D4400][000001C9181CE300 49] Android, [000001C9178B1E00][000001C91824A480 49] Android_Low, [000001C9178D7800][000001C918260600 49] Android_Mid, [000001C9178B1100][000001C9182BC780 49] Android_High, [000001C9178D5100][000001C9182E2900 49] Android_Default, [000001C9178B0700][000001C918318A80 49] Android_Adreno4xx, [000001C9178D7300][000001C918330C00 49] Android_Adreno5xx_Low, [000001C9178B0900][000001C918334D80 49] Android_Adreno5xx, [000001C9178D7B00][000001C918338F00 49] Android_Adreno6xx, [000001C9178B1300][000001C91833D080 49] Android_Adreno6xx_Vulkan, [000001C9178D4D00][000001C918341200 49] Android_Mali_T6xx, [000001C9178B2400][000001C918345380 49] Android_Mali_T7xx, [000001C9178D7600][000001C918349500 49] Android_Mali_T8xx, [000001C9178B0C00][000001C91834D680 49] Android_Mali_G71, [000001C9178D5400][000001C918351800 49] Android_Mali_G72, [000001C9178B3900][000001C918163940 49] Android_Mali_G72_Vulkan, [000001C9178D5200][000001C91841FA80 49] Android_Mali_G76, [000001C9178B0300][000001C91842BBC0 49] Android_Mali_G76_Vulkan, [000001C9178D6A00][000001C918465D00 49] Android_Mali_G77, [000001C9178B0100][000001C9184741C0 49] Android_Mali_G77_Vulkan, [000001C9178D4100][000001C9184A0340 49] Android_Vulkan_SM5, [000001C9178B1F00][000001C9185644C0 49] Android_PowerVR_G6xxx, [000001C9178D7900][000001C918568640 49] Android_PowerVR_GT7xxx, [000001C9178B0B00][000001C91856C7C0 49] Android_PowerVR_GE8xxx, [000001C9178D6D00][000001C918570940 49] Android_PowerVR_GM9xxx, [000001C9178B3D00][000001C918574AC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001C9178D5E00][000001C918578C40 49] Android_TegraK1, [000001C9178B2900][000001C91857CDC0 49] Android_Unknown_Vulkan, [000001C9178D4E00][000001C918670F40 49] Lumin, [000001C9178B2700][000001C91867D0C0 49] Lumin_Desktop, [000001C9178D4A00][000001C918681240 49] HoloLens, 
+[2023.02.21-19.46.26:015][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.21-19.46.26:015][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.21-19.46.26:015][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.21-19.46.26:015][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.21-19.46.26:015][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.21-19.46.26:043][  0]LogNetVersion: Coots_Gamejam 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2060570115)
+[2023.02.21-19.46.26:406][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.21-19.46.26:407][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2023.02.21-19.46.26:907][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/2657c409.bin'.
+[2023.02.21-19.46.26:909][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2023.02.21-19.46.27:410][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/866581fd.bin'.
+[2023.02.21-19.46.27:411][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2023.02.21-19.46.27:912][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/8c0e1344.bin'.
+[2023.02.21-19.46.27:913][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/218409f6.bin', retrying in .5s...
+[2023.02.21-19.46.28:415][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/218409f6.bin'.
+[2023.02.21-19.46.28:416][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/db6fd95f.bin', retrying in .5s...
+[2023.02.21-19.46.28:917][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/db6fd95f.bin'.
+[2023.02.21-19.46.28:918][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/089bc3de.bin', retrying in .5s...
+[2023.02.21-19.46.29:419][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/089bc3de.bin'.
+[2023.02.21-19.46.29:420][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/9c1a1723.bin', retrying in .5s...
+[2023.02.21-19.46.29:920][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/9c1a1723.bin'.
+[2023.02.21-19.46.29:921][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/a02d411d.bin', retrying in .5s...
+[2023.02.21-19.46.30:422][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/a02d411d.bin'.
+[2023.02.21-19.46.30:423][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/a39ccbb5.bin', retrying in .5s...
+[2023.02.21-19.46.30:925][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/a39ccbb5.bin'.
+[2023.02.21-19.46.30:926][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/7b241018.bin', retrying in .5s...
+[2023.02.21-19.46.31:428][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/7b241018.bin'.
+[2023.02.21-19.46.31:429][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/09b713d3.bin', retrying in .5s...
+[2023.02.21-19.46.31:929][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/09b713d3.bin'.
+[2023.02.21-19.46.31:930][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/2ad2a7fd.bin', retrying in .5s...
+[2023.02.21-19.46.32:431][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/2ad2a7fd.bin'.
+[2023.02.21-19.46.32:432][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/50a675f9.bin', retrying in .5s...
+[2023.02.21-19.46.32:934][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/50a675f9.bin'.
+[2023.02.21-19.46.32:935][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/d859983c.bin', retrying in .5s...
+[2023.02.21-19.46.33:436][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/d859983c.bin'.
+[2023.02.21-19.46.33:437][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/8e9331e2.bin', retrying in .5s...
+[2023.02.21-19.46.33:938][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/8e9331e2.bin'.
+[2023.02.21-19.46.33:939][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/58fb7916.bin', retrying in .5s...
+[2023.02.21-19.46.34:440][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/58fb7916.bin'.
+[2023.02.21-19.46.34:441][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/52ed2538.bin', retrying in .5s...
+[2023.02.21-19.46.34:943][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/52ed2538.bin'.
+[2023.02.21-19.46.34:944][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/cc8b2eeb.bin', retrying in .5s...
+[2023.02.21-19.46.35:446][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/cc8b2eeb.bin'.
+[2023.02.21-19.46.35:447][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/d63b3057.bin', retrying in .5s...
+[2023.02.21-19.46.35:947][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/d63b3057.bin'.
+[2023.02.21-19.46.35:948][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2023.02.21-19.46.36:449][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/6bead350.bin'.
+[2023.02.21-19.46.36:450][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/11b06015.bin', retrying in .5s...
+[2023.02.21-19.46.36:952][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/11b06015.bin'.
+[2023.02.21-19.46.36:953][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/f0d5030c.bin', retrying in .5s...
+[2023.02.21-19.46.37:454][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/f0d5030c.bin'.
+[2023.02.21-19.46.37:455][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2023.02.21-19.46.37:956][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/AssetRegistryCache/1f683343.bin'.
+[2023.02.21-19.46.37:957][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 11.550713 seconds
+[2023.02.21-19.46.37:963][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2023.02.21-19.46.37:964][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2023.02.21-19.46.37:964][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.21-19.46.38:316][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2023.02.21-19.46.38:316][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.21-19.46.38:321][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.21-19.46.38:551][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.21-19.46.38:561][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.21-19.46.38:561][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.21-19.46.38:588][  0]SourceControl: Source control is disabled
+[2023.02.21-19.46.38:588][  0]SourceControl: Source control is disabled
+[2023.02.21-19.46.38:599][  0]SourceControl: Source control is disabled
+[2023.02.21-19.46.38:617][  0]LogUProjectInfo: Found projects:
+[2023.02.21-19.46.38:628][  0]LogCollectionManager: Loaded 0 collections in 0.000574 seconds
+[2023.02.21-19.46.38:644][  0]LogFileCache: Scanning file cache for directory 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Saved/Collections/' took 0.00s
+[2023.02.21-19.46.38:645][  0]LogFileCache: Scanning file cache for directory 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Developers/aront/Collections/' took 0.00s
+[2023.02.21-19.46.38:645][  0]LogFileCache: Scanning file cache for directory 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Collections/' took 0.00s
+[2023.02.21-19.46.38:645][  0]LogFileManager: Error: Error deleting file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Intermediate/CachedAssetRegistry.bin'.
+[2023.02.21-19.46.38:645][  0]LogOcInput: OculusInput pre-init called
+[2023.02.21-19.46.38:652][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.02.21-19.46.38:652][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.02.21-19.46.38:689][  0]LogEngine: Initializing Engine...
+[2023.02.21-19.46.38:751][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.02.21-19.46.38:751][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.21-19.46.38:752][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.21-19.46.38:830][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.21-19.46.38:835][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.21-19.46.38:842][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.21-19.46.38:845][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.21-19.46.38:845][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.21-19.46.38:845][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-19.46.38:845][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-19.46.38:845][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.21-19.46.38:845][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.21-19.46.38:845][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.21-19.46.38:845][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-19.46.38:845][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-19.46.38:846][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-19.46.38:846][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-19.46.38:846][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-19.46.38:866][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-19.46.38:866][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-19.46.38:866][  0]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.21-19.46.38:866][  0]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.21-19.46.38:866][  0]LogAudioMixer: Display: 4: BackLeft
+[2023.02.21-19.46.38:866][  0]LogAudioMixer: Display: 5: BackRight
+[2023.02.21-19.46.38:866][  0]LogAudioMixer: Display: 6: SideLeft
+[2023.02.21-19.46.38:866][  0]LogAudioMixer: Display: 7: SideRight
+[2023.02.21-19.46.38:885][  0]LogAudioMixer: Display: Using Audio Device Högtalare (2- EPOS H3PRO Dongle)
+[2023.02.21-19.46.38:887][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-19.46.38:888][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-19.46.38:889][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-19.46.38:889][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-19.46.38:889][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.21-19.46.38:889][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.21-19.46.38:890][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.21-19.46.38:890][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.21-19.46.38:890][  0]LogInit: FAudioDevice initialized.
+[2023.02.21-19.46.38:890][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.21-19.46.38:890][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.21-19.46.38:926][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/aront/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.02.21-19.46.38:926][  0]LogInit: Texture streaming: Enabled
+[2023.02.21-19.46.38:935][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2023.02.21-19.46.38:938][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.21-19.46.38:938][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.21-19.46.38:940][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.21-19.46.38:961][  0]LogInit: Transaction tracking system initialized
+[2023.02.21-19.46.38:976][  0]BlueprintLog: New page: Editor Load
+[2023.02.21-19.46.39:033][  0]LocalizationService: Localization service is disabled
+[2023.02.21-19.46.39:050][  0]TimingProfiler: Initialize
+[2023.02.21-19.46.39:050][  0]TimingProfiler: OnSessionChanged
+[2023.02.21-19.46.39:050][  0]LoadingProfiler: Initialize
+[2023.02.21-19.46.39:050][  0]LoadingProfiler: OnSessionChanged
+[2023.02.21-19.46.39:050][  0]NetworkingProfiler: Initialize
+[2023.02.21-19.46.39:050][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.21-19.46.39:050][  0]MemoryProfiler: Initialize
+[2023.02.21-19.46.39:050][  0]MemoryProfiler: OnSessionChanged
+[2023.02.21-19.46.39:094][  0]DDCNotifications: Shared DDC not detected, performance notification enabled
+[2023.02.21-19.46.39:133][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.21-19.46.39:134][  0]LogCook: Display: Mobile HDR setting 0
+[2023.02.21-19.46.39:249][  0]LogFileCache: Scanning file cache for directory 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/' took 0.01s
+[2023.02.21-19.46.39:362][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.21-19.46.39:958][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.597
+[2023.02.21-19.46.39:958][  0]Cmd: MAP LOAD FILE="E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.21-19.46.39:958][  0]LogEditorServer: Warning: Can't find file 'E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.02.21-19.46.39:958][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.21-19.46.39:958][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,084ms to complete.
+[2023.02.21-19.46.39:958][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.000
+[2023.02.21-19.46.39:960][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.600
+[2023.02.21-19.46.40:075][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-19.46.40:080][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-19.46.40:084][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-19.46.40:087][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-19.46.40:098][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3676 classes and 892 folders.
+[2023.02.21-19.46.40:102][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.21-19.46.40:103][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.21-19.46.40:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.21-19.46.40:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2023.02.21-19.46.40:103][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.21-19.46.40:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.21-19.46.40:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2023.02.21-19.46.40:104][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.21-19.46.40:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.21-19.46.40:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2023.02.21-19.46.40:104][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.21-19.46.40:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.21-19.46.40:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2023.02.21-19.46.40:105][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.21-19.46.40:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.21-19.46.40:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2023.02.21-19.46.40:105][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.21-19.46.40:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.21-19.46.40:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2023.02.21-19.46.40:105][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.21-19.46.40:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.21-19.46.40:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.21-19.46.40:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.21-19.46.40:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.21-19.46.40:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.21-19.46.40:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.02.21-19.46.40:106][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.21-19.46.40:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.21-19.46.40:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2023.02.21-19.46.40:107][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.21-19.46.40:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.21-19.46.40:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.02.21-19.46.40:107][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.21-19.46.40:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.21-19.46.40:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.02.21-19.46.40:108][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.21-19.46.40:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.21-19.46.40:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2023.02.21-19.46.40:108][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.21-19.46.40:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.21-19.46.40:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.02.21-19.46.40:108][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.21-19.46.40:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.21-19.46.40:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.02.21-19.46.40:109][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.21-19.46.40:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:109][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.21-19.46.40:109][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.02.21-19.46.40:109][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.21-19.46.40:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:109][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.21-19.46.40:109][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.02.21-19.46.40:109][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.21-19.46.40:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:109][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.21-19.46.40:109][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.02.21-19.46.40:110][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.21-19.46.40:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.21-19.46.40:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.02.21-19.46.40:110][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.21-19.46.40:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.21-19.46.40:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.02.21-19.46.40:110][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.21-19.46.40:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.21-19.46.40:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.21-19.46.40:111][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.21-19.46.40:111][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:111][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.21-19.46.40:111][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.02.21-19.46.40:111][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.21-19.46.40:111][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:111][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.21-19.46.40:111][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.21-19.46.40:111][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.21-19.46.40:111][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.21-19.46.40:112][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.21-19.46.40:112][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.02.21-19.46.40:131][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.21-19.46.40:131][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.02.21-19.46.40:194][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.21-19.46.40:195][  0]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.21-19.46.40:199][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.21-19.46.40:281][  0]LogRenderer: Reallocating scene render targets to support 1128x552 Format 10 NumSamples 1 (Frame:1).
+[2023.02.21-19.46.40:701][  0]LogSourceControl: Attempting 'p4 client -o AronTinz_DESKTOP-LP1QBOO_5193'
+[2023.02.21-19.46.40:701][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.21-19.46.40:757][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.21-19.46.40:757][  0]LogLoad: (Engine Initialization) Total time: 18.40 seconds
+[2023.02.21-19.46.40:757][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.21-19.46.40:757][  0]LogInit: First time updating LLM stats...
+[2023.02.21-19.46.40:795][  0]LogAssetRegistry: Asset discovery search completed in 15.0662 seconds
+[2023.02.21-19.46.40:796][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.02.21-19.46.40:814][  0]SourceControl: Client AronTinz_DESKTOP-LP1QBOO_5193
+[2023.02.21-19.46.40:814][  0]SourceControl: Update 2022/07/24 16:50:55
+[2023.02.21-19.46.40:814][  0]SourceControl: Access 2023/02/21 19:45:54
+[2023.02.21-19.46.40:814][  0]SourceControl: Owner AronTinz
+[2023.02.21-19.46.40:814][  0]SourceControl: Host DESKTOP-LP1QBOO
+[2023.02.21-19.46.40:814][  0]SourceControl: Description Created by AronTinz.
+
+[2023.02.21-19.46.40:814][  0]SourceControl: Root E:\P4GalacticMayhem
+[2023.02.21-19.46.40:814][  0]SourceControl: Options noallwrite noclobber nocompress unlocked nomodtime normdir
+[2023.02.21-19.46.40:814][  0]SourceControl: SubmitOptions submitunchanged
+[2023.02.21-19.46.40:814][  0]SourceControl: LineEnd local
+[2023.02.21-19.46.40:814][  0]SourceControl: View0 //depot/... //AronTinz_DESKTOP-LP1QBOO_5193/...
+[2023.02.21-19.46.40:814][  0]SourceControl: Type writeable
+[2023.02.21-19.46.40:814][  0]SourceControl: Backup enable
+[2023.02.21-19.46.40:814][  0]SourceControl: specFormatted 
+[2023.02.21-19.46.40:814][  0]SourceControl: func client-FstatInfo
+[2023.02.21-19.46.40:814][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.21-19.46.41:456][  3]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Config/DefaultEngine.ini D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/AlembicImporter/Source/AlembicLibrary/Public/AbcAssetImportData.h D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/AlembicImporter/Source/AlembicLibrary/Public/AbcImportSettings.h D:/Epic Games/UE_4.26/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h D:/Epic Games/UE_4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes/AchievementBlueprintLibrary.h D:/Epic Games/UE_4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes/AchievementQueryCallbackProxy.h D:/Epic Games/UE_4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes/AchievementWriteCallbackProxy.h D:/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h D:/Epic Games/UE_4.26/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h D:/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h D:/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h D:/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactory.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAmbientSound.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAnimationAsset.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAtmosphericFog.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBasicShape.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBlueprint.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxReflectionCapture.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxVolume.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCameraActor.h D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Source/ChaosSolverEditor/Private/Chaos/ActorFactoryChaosSolver.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCharacter.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryClass.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCylinderVolume.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDeferredDecal.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDirectionalLight.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmitter.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmptyActor.h D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryExponentialHeightFog.h D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCache/Source/GeometryCacheEd/Classes/ActorFactoryGeometryCache.h'
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/AlembicImporter/Source/AlembicLibrary/Public/AbcAssetImportData.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/AlembicImporter/Source/AlembicLibrary/Public/AbcImportSettings.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes/AchievementBlueprintLibrary.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes/AchievementQueryCallbackProxy.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes/AchievementWriteCallbackProxy.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactory.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAmbientSound.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAnimationAsset.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryAtmosphericFog.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBasicShape.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBlueprint.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxReflectionCapture.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryBoxVolume.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCameraActor.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Source/ChaosSolverEditor/Private/Chaos/ActorFactoryChaosSolver.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCharacter.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryClass.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryCylinderVolume.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDeferredDecal.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryDirectionalLight.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmitter.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryEmptyActor.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Source/Editor/UnrealEd/Classes/ActorFactories/ActorFactoryExponentialHeightFog.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.41:782][  3]SourceControl: Path 'D:/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCache/Source/GeometryCacheEd/Classes/ActorFactoryGeometryCache.h' is not under client's root 'E:\P4GalacticMayhem'.
+
+[2023.02.21-19.46.45:140][ 14]LogSourceControl: Attempting 'p4 fstat -Or E:/P4GalacticMayhem/Coots/Coots_Gamejam/Content/Core/Scripts/EnvironmentalMechanics/ActivationMethods/MasterActivationParent.uasset'
+[2023.02.21-19.46.47:788][206]LogBlueprint: Warning: FMemberReference::ResolveMember (BreakingBeginOverlap) bSelfContext == true, but no scope supplied!
+[2023.02.21-19.46.47:788][206]LogBlueprint: Warning: FMemberReference::ResolveMember (Moving BeginPlay) bSelfContext == true, but no scope supplied!
+[2023.02.21-19.46.47:788][206]LogBlueprint: Warning: FMemberReference::ResolveMember (Moving Begin Overlap) bSelfContext == true, but no scope supplied!
+[2023.02.21-19.46.47:788][206]LogBlueprint: Warning: FMemberReference::ResolveMember (Moving End Overlap) bSelfContext == true, but no scope supplied!
+[2023.02.21-19.46.47:788][206]LogBlueprint: Warning: FMemberReference::ResolveMember (Falling End Overlap) bSelfContext == true, but no scope supplied!
+[2023.02.21-19.46.47:788][206]LogBlueprint: Warning: FMemberReference::ResolveMember (Falling Begin Overlap) bSelfContext == true, but no scope supplied!
+[2023.02.21-19.46.47:788][206]LogBlueprint: Warning: FMemberReference::ResolveMember (BreakingEndOverlap) bSelfContext == true, but no scope supplied!
+[2023.02.21-19.46.47:790][206]LogBlueprint: Warning: FMemberReference::ResolveMember (Falling Calcs) bSelfContext == true, but no scope supplied!
+[2023.02.21-19.46.47:796][206]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.21-19.46.47:807][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/Scripts/EnvironmentalMechanics/Platforms/DynamicPlatform.DynamicPlatform
+[2023.02.21-19.46.51:361][206]LogSlate: Window 'Message' being destroyed
+[2023.02.21-19.46.51:366][206]Message dialog closed, result: Yes, title: Message, text: Blueprint could not be loaded because it derives from an invalid class.  Check to make sure the parent class for this blueprint hasn't been removed! Do you want to continue (it can crash the editor)?
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2023.02.21-19.46.51:470][206]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2023.02.21-19.46.51:471][206]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2023.02.21-19.46.51:471][206]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2023.02.21-19.46.51:471][206]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2023.02.21-19.46.51:471][206]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2023.02.21-19.46.51:471][206]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2023.02.21-19.46.51:471][206]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/LocalSobel/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ExampleContent/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2023.02.21-19.46.51:493][206]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2023.02.21-19.46.51:747][206]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.02.21-19.46.57:380][206]LogStats: FPlatformStackWalk::StackWalkAndDump -  5.633 s
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: === Handled ensure: ===
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: 
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 632]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (DynamicPlatform) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: Stack: 
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6c5dbd4f UE4Editor-BlueprintGraph.dll!<lambda_1da062c0c6dc20a2fc1c92e46fb8b212>::operator()() [D:\Build\++UE4\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp:627]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6c427a8d UE4Editor-BlueprintGraph.dll!BlueprintActionFilterImpl::IsEventUnimplementable() [D:\Build\++UE4\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp:627]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6c428433 UE4Editor-BlueprintGraph.dll!FBlueprintActionFilter::IsFilteredByThis() [D:\Build\++UE4\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp:2083]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6c4282cb UE4Editor-BlueprintGraph.dll!FBlueprintActionFilter::IsFiltered() [D:\Build\++UE4\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp:2024]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b517dc6 UE4Editor-Kismet.dll!FBlueprintActionMenuBuilderImpl::FMenuSectionDefinition::MakeMenuItems() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintActionMenuBuilder.cpp:411]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b541329 UE4Editor-Kismet.dll!FBlueprintActionMenuBuilder::RebuildActionList() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintActionMenuBuilder.cpp:535]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b518402 UE4Editor-Kismet.dll!FBlueprintActionMenuUtils::MakePaletteMenu() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintActionMenuUtils.cpp:440]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b79ec08 UE4Editor-Kismet.dll!SBlueprintLibraryPalette::CollectAllActions() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\SBlueprintLibraryPalette.cpp:232]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b7d8d67 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,SBlueprintSubPalette,0,void __cdecl(FGraphActionListBuilderBase &),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b2493a7 UE4Editor-GraphEditor.dll!SGraphActionMenu::RefreshAllActions() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphActionMenu.cpp:442]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b14959d UE4Editor-GraphEditor.dll!SGraphActionMenu::Construct() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphActionMenu.cpp:432]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b78da41 UE4Editor-Kismet.dll!TDecl<SGraphActionMenu,RequiredArgs::T0RequiredArgs>::operator<<=() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Widgets\DeclarativeSyntaxSupport.h:1122]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b7b4a05 UE4Editor-Kismet.dll!SBlueprintSubPalette::Construct() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\SBlueprintSubPalette.cpp:229]
+[2023.02.21-19.46.57:380][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b7b046a UE4Editor-Kismet.dll!SBlueprintLibraryPalette::Construct() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\SBlueprintLibraryPalette.cpp:205]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b78c320 UE4Editor-Kismet.dll!TDecl<SBlueprintLibraryPalette,RequiredArgs::T1RequiredArgs<TWeakPtr<FBlueprintEditor,0> &> >::operator<<=() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Widgets\DeclarativeSyntaxSupport.h:1122]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b7b0adf UE4Editor-Kismet.dll!SBlueprintPalette::Construct() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\SBlueprintPalette.cpp:1917]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b58c5f0 UE4Editor-Kismet.dll!TDecl<SBlueprintPalette,RequiredArgs::T1RequiredArgs<TSharedRef<FBlueprintEditor,0> &&> >::operator<<=() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Widgets\DeclarativeSyntaxSupport.h:1122]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b5aa933 UE4Editor-Kismet.dll!FBlueprintEditor::CreateDefaultTabContents() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditor.cpp:2530]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b59fbb0 UE4Editor-Kismet.dll!FBlueprintEditor::CommonInitialization() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditor.cpp:1754]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b5cd3c7 UE4Editor-Kismet.dll!FBlueprintEditor::InitBlueprintEditor() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditor.cpp:1992]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b68d25f UE4Editor-Kismet.dll!FBlueprintEditorModule::CreateBlueprintEditor() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditorModule.cpp:273]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b68d838 UE4Editor-Kismet.dll!FBlueprintEditorModule::CreateBlueprintEditor() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditorModule.cpp:264]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe37147e86 UE4Editor-AssetTools.dll!FAssetTypeActions_Blueprint::OpenAssetEditor() [D:\Build\++UE4\Sync\Engine\Source\Developer\AssetTools\Private\AssetTypeActions\AssetTypeActions_Blueprint.cpp:93]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe75212c11 UE4Editor-UnrealEd.dll!UAssetEditorSubsystem::OpenEditorForAsset() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Subsystems\AssetEditorSubsystem.cpp:363]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe75213fad UE4Editor-UnrealEd.dll!UAssetEditorSubsystem::OpenEditorForAssets_Advanced() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Subsystems\AssetEditorSubsystem.cpp:437]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe75213cda UE4Editor-UnrealEd.dll!UAssetEditorSubsystem::OpenEditorForAssets() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Subsystems\AssetEditorSubsystem.cpp:553]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffddcd09fdf UE4Editor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::EditOrPreviewAssetFileItems() [D:\Build\++UE4\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:287]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffddcd0a200 UE4Editor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::EditOrPreviewItems() [D:\Build\++UE4\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:307]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffddccf7c82 UE4Editor-ContentBrowserAssetDataSource.dll!UContentBrowserAssetDataSource::BulkEditItems() [D:\Build\++UE4\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataSource.cpp:932]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe3588b95d UE4Editor-ContentBrowser.dll!SContentBrowser::OnItemsActivated() [D:\Build\++UE4\Sync\Engine\Source\Editor\ContentBrowser\Private\SContentBrowser.cpp:2238]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe3584a800 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SContentBrowser,0,void __cdecl(TArrayView<FContentBrowserItem const ,int>,enum EAssetTypeActivationMethod::Type),FDefaultDelegateUserPolicy>::Execute() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:290]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe357ab74c UE4Editor-ContentBrowser.dll!SAssetView::OnListMouseButtonDoubleClick() [D:\Build\++UE4\Sync\Engine\Source\Editor\ContentBrowser\Private\SAssetView.cpp:3467]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe35769357 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SAssetView,0,void __cdecl(TSharedPtr<FAssetViewItem,0>),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe356c8374 UE4Editor-ContentBrowser.dll!TDelegate<void __cdecl(TSharedPtr<FAssetViewItem,0>),FDefaultDelegateUserPolicy>::ExecuteIfBound<void,0>() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:599]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe357b6227 UE4Editor-ContentBrowser.dll!SListView<TSharedPtr<FAssetViewItem,0> >::Private_OnItemDoubleClicked() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Public\Widgets\Views\SListView.h:1074]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe357ab93b UE4Editor-ContentBrowser.dll!STableRow<TSharedPtr<FAssetViewItem,0> >::OnMouseButtonDoubleClick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Public\Widgets\Views\STableRow.h:458]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe761e2bf8 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_2b5148752c2a272000c47b69ff14a42e> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:378]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe762668e7 UE4Editor-Slate.dll!FSlateApplication::RoutePointerDoubleClickEvent() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5281]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe7624f4ce UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonDoubleClickEvent() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5268]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffe76242de9 UE4Editor-Slate.dll!FSlateApplication::OnMouseDoubleClick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5231]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffedc8cbc8f UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2182]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffedc8b9197 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2642]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffedc8ce389 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1046]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffedc8b4310 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:878]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffee8bfe7e8 USER32.dll!UnknownFunction []
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffee8bfe229 USER32.dll!UnknownFunction []
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffedc8cf914 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:130]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ff6087b8848 UE4Editor.exe!FEngineLoop::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4748]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ff6087d117c UE4Editor.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:169]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ff6087d125a UE4Editor.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ff6087e52bd UE4Editor.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:268]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ff6087e7fea UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffee8b47614 KERNEL32.DLL!UnknownFunction []
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: [Callstack] 0x00007ffeea6226a1 ntdll.dll!UnknownFunction []
+[2023.02.21-19.46.57:381][206]LogOutputDevice: Error: 
+[2023.02.21-19.46.57:387][206]LogStats:                SubmitErrorReport -  0.000 s
+[2023.02.21-19.46.58:617][206]LogStats:                    SendNewReport -  1.230 s
+[2023.02.21-19.46.58:617][206]LogStats:             FDebug::EnsureFailed -  6.870 s
+[2023.02.21-19.46.58:620][206]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.02.21-19.46.58:623][206]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.003 s
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: === Handled ensure: ===
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: 
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 731]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: Unable to resolve IsFieldInaccessible() - Blueprint (DynamicPlatform) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: Stack: 
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6c5dcc2f UE4Editor-BlueprintGraph.dll!<lambda_e0355a21758d38aa5e25813205a3e24c>::operator()() [D:\Build\++UE4\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp:726]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6c4281df UE4Editor-BlueprintGraph.dll!BlueprintActionFilterImpl::IsFieldInaccessible() [D:\Build\++UE4\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp:726]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6c428433 UE4Editor-BlueprintGraph.dll!FBlueprintActionFilter::IsFilteredByThis() [D:\Build\++UE4\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp:2083]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6c4282cb UE4Editor-BlueprintGraph.dll!FBlueprintActionFilter::IsFiltered() [D:\Build\++UE4\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp:2024]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b517dc6 UE4Editor-Kismet.dll!FBlueprintActionMenuBuilderImpl::FMenuSectionDefinition::MakeMenuItems() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintActionMenuBuilder.cpp:411]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b541329 UE4Editor-Kismet.dll!FBlueprintActionMenuBuilder::RebuildActionList() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintActionMenuBuilder.cpp:535]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b518402 UE4Editor-Kismet.dll!FBlueprintActionMenuUtils::MakePaletteMenu() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintActionMenuUtils.cpp:440]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b79ec08 UE4Editor-Kismet.dll!SBlueprintLibraryPalette::CollectAllActions() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\SBlueprintLibraryPalette.cpp:232]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b7d8d67 UE4Editor-Kismet.dll!TBaseSPMethodDelegateInstance<0,SBlueprintSubPalette,0,void __cdecl(FGraphActionListBuilderBase &),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b2493a7 UE4Editor-GraphEditor.dll!SGraphActionMenu::RefreshAllActions() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphActionMenu.cpp:442]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b14959d UE4Editor-GraphEditor.dll!SGraphActionMenu::Construct() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphActionMenu.cpp:432]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b78da41 UE4Editor-Kismet.dll!TDecl<SGraphActionMenu,RequiredArgs::T0RequiredArgs>::operator<<=() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Widgets\DeclarativeSyntaxSupport.h:1122]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b7b4a05 UE4Editor-Kismet.dll!SBlueprintSubPalette::Construct() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\SBlueprintSubPalette.cpp:229]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b7b046a UE4Editor-Kismet.dll!SBlueprintLibraryPalette::Construct() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\SBlueprintLibraryPalette.cpp:205]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b78c320 UE4Editor-Kismet.dll!TDecl<SBlueprintLibraryPalette,RequiredArgs::T1RequiredArgs<TWeakPtr<FBlueprintEditor,0> &> >::operator<<=() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Widgets\DeclarativeSyntaxSupport.h:1122]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b7b0adf UE4Editor-Kismet.dll!SBlueprintPalette::Construct() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\SBlueprintPalette.cpp:1917]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b58c5f0 UE4Editor-Kismet.dll!TDecl<SBlueprintPalette,RequiredArgs::T1RequiredArgs<TSharedRef<FBlueprintEditor,0> &&> >::operator<<=() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Widgets\DeclarativeSyntaxSupport.h:1122]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b5aa933 UE4Editor-Kismet.dll!FBlueprintEditor::CreateDefaultTabContents() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditor.cpp:2530]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b59fbb0 UE4Editor-Kismet.dll!FBlueprintEditor::CommonInitialization() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditor.cpp:1754]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b5cd3c7 UE4Editor-Kismet.dll!FBlueprintEditor::InitBlueprintEditor() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditor.cpp:1992]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b68d25f UE4Editor-Kismet.dll!FBlueprintEditorModule::CreateBlueprintEditor() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditorModule.cpp:273]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe6b68d838 UE4Editor-Kismet.dll!FBlueprintEditorModule::CreateBlueprintEditor() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintEditorModule.cpp:264]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe37147e86 UE4Editor-AssetTools.dll!FAssetTypeActions_Blueprint::OpenAssetEditor() [D:\Build\++UE4\Sync\Engine\Source\Developer\AssetTools\Private\AssetTypeActions\AssetTypeActions_Blueprint.cpp:93]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe75212c11 UE4Editor-UnrealEd.dll!UAssetEditorSubsystem::OpenEditorForAsset() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Subsystems\AssetEditorSubsystem.cpp:363]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe75213fad UE4Editor-UnrealEd.dll!UAssetEditorSubsystem::OpenEditorForAssets_Advanced() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Subsystems\AssetEditorSubsystem.cpp:437]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe75213cda UE4Editor-UnrealEd.dll!UAssetEditorSubsystem::OpenEditorForAssets() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Subsystems\AssetEditorSubsystem.cpp:553]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffddcd09fdf UE4Editor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::EditOrPreviewAssetFileItems() [D:\Build\++UE4\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:287]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffddcd0a200 UE4Editor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::EditOrPreviewItems() [D:\Build\++UE4\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:307]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffddccf7c82 UE4Editor-ContentBrowserAssetDataSource.dll!UContentBrowserAssetDataSource::BulkEditItems() [D:\Build\++UE4\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataSource.cpp:932]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe3588b95d UE4Editor-ContentBrowser.dll!SContentBrowser::OnItemsActivated() [D:\Build\++UE4\Sync\Engine\Source\Editor\ContentBrowser\Private\SContentBrowser.cpp:2238]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe3584a800 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SContentBrowser,0,void __cdecl(TArrayView<FContentBrowserItem const ,int>,enum EAssetTypeActivationMethod::Type),FDefaultDelegateUserPolicy>::Execute() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:290]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe357ab74c UE4Editor-ContentBrowser.dll!SAssetView::OnListMouseButtonDoubleClick() [D:\Build\++UE4\Sync\Engine\Source\Editor\ContentBrowser\Private\SAssetView.cpp:3467]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe35769357 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SAssetView,0,void __cdecl(TSharedPtr<FAssetViewItem,0>),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe356c8374 UE4Editor-ContentBrowser.dll!TDelegate<void __cdecl(TSharedPtr<FAssetViewItem,0>),FDefaultDelegateUserPolicy>::ExecuteIfBound<void,0>() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:599]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe357b6227 UE4Editor-ContentBrowser.dll!SListView<TSharedPtr<FAssetViewItem,0> >::Private_OnItemDoubleClicked() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Public\Widgets\Views\SListView.h:1074]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe357ab93b UE4Editor-ContentBrowser.dll!STableRow<TSharedPtr<FAssetViewItem,0> >::OnMouseButtonDoubleClick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Public\Widgets\Views\STableRow.h:458]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe761e2bf8 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FBubblePolicy,FPointerEvent,<lambda_2b5148752c2a272000c47b69ff14a42e> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:378]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe762668e7 UE4Editor-Slate.dll!FSlateApplication::RoutePointerDoubleClickEvent() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5281]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe7624f4ce UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonDoubleClickEvent() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5268]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffe76242de9 UE4Editor-Slate.dll!FSlateApplication::OnMouseDoubleClick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5231]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffedc8cbc8f UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2182]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffedc8b9197 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2642]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffedc8ce389 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1046]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffedc8b4310 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:878]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffee8bfe7e8 USER32.dll!UnknownFunction []
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffee8bfe229 USER32.dll!UnknownFunction []
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffedc8cf914 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\Build\++UE4\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:130]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ff6087b8848 UE4Editor.exe!FEngineLoop::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4748]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ff6087d117c UE4Editor.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:169]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ff6087d125a UE4Editor.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ff6087e52bd UE4Editor.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:268]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ff6087e7fea UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffee8b47614 KERNEL32.DLL!UnknownFunction []
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: [Callstack] 0x00007ffeea6226a1 ntdll.dll!UnknownFunction []
+[2023.02.21-19.46.58:624][206]LogOutputDevice: Error: 
